@@ -36,14 +36,30 @@ make stream
 # モデルをダウンロード（例：small）
 bash ./models/download-ggml-model.sh small
 
+# または、HuggingFaceから直接ダウンロード
+# https://huggingface.co/ggerganov/whisper.cpp/tree/main
+
 # モデルファイルの場所を確認
 ls -l models/ggml-small.bin
 ```
 
 注意：
 - CUDAを使用する場合は`make stream CUDA=1`でビルドしてください
+- Apple Silicon (M1/M2) の場合は標準のMakefileでビルドできます。本アプリケーションはM2 Air で動作確認しています
 - ダウンロードできるモデルは他にも`tiny`、`base`、`medium`、`large`があります
+- より多くのモデルバリエーション（量子化レベルやサイズの異なるモデル）は[HuggingFace](https://huggingface.co/ggerganov/whisper.cpp/tree/main)から直接ダウンロードできます：
+  - ggml-tiny.bin: 最小サイズ
+  - ggml-base.bin: 基本モデル
+  - ggml-small.bin: 小サイズ
+  - ggml-medium.bin: 中サイズ
+  - ggml-large.bin: 大サイズ
+  - ggml-*-q4_0.bin: 4-bit量子化モデル（サイズ削減）
+  - ggml-*-q4_1.bin: 改良版4-bit量子化
+  - ggml-*-q5_0.bin: 5-bit量子化
+  - ggml-*-q5_1.bin: 改良版5-bit量子化
+  - ggml-*-q8_0.bin: 8-bit量子化（高精度）
 - モデルのパスは`.env`ファイルの`WHISPER_MODEL_PATH`で指定します
+- Apple Silicon での実行時は、より小さな量子化モデル（q4_0やq4_1）を使用することで、メモリ使用量を抑えつつ高速な処理が可能です
 
 3. 環境変数の設定:
 
@@ -125,3 +141,7 @@ python audio_stream.py
 - 処理性能はハードウェア環境に依存します
 - APIキーなどの機密情報は必ず環境変数で管理し、Gitなどのバージョン管理システムにコミットしないでください
 - `.env`ファイルは`.gitignore`に追加することを推奨します
+
+## ライセンス
+
+MITライセンス
