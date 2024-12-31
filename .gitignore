@@ -1,2 +1,70 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env/
 .venv/
+
+# IDE
 .idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs
+*.log
+logs/
+log/
+
+# Audio files
+*.wav
+*.mp3
+*.ogg
+*.flac
+
+# Whisper models and temporary files
+models/
+*.bin
+*.pt
+*.ggml
+*.temp
+
+# Test coverage
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/

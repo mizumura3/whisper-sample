@@ -1,0 +1,3146 @@
+{
+  "voiceActors": [
+    {
+      "id": "dba2fa0e-f750-43ad-b9f6-d5aeaea7dc16",
+      "name": "水戸 明日菜",
+      "nameReading": "みと あすな",
+      "age": 15,
+      "gender": "FEMALE",
+      "birthMonth": 3,
+      "birthDay": 3,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/dba2fa0e-f750-43ad-b9f6-d5aeaea7dc16/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/dba2fa0e-f750-43ad-b9f6-d5aeaea7dc16/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/dba2fa0e-f750-43ad-b9f6-d5aeaea7dc16/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/dba2fa0e-f750-43ad-b9f6-d5aeaea7dc16/audio-files/audio.wav",
+      "sampleScript": "春休み最高ー！明日も晴れたら嬉しいなぁ。 まだまだ行かなきゃいけない場所、たくさんあるもんね！",
+      "recommendedVoiceSpeed": 0.8,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 58,
+          "style": "素直"
+        },
+        {
+          "id": 41,
+          "style": "明るい"
+        }
+      ]
+    },
+    {
+      "id": "04c7f4e0-41d8-4d02-9cbe-bf79e635f5ab",
+      "name": "漆夜 蓮",
+      "nameReading": "うるしや れん",
+      "age": 24,
+      "gender": "MALE",
+      "birthMonth": 11,
+      "birthDay": 23,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/04c7f4e0-41d8-4d02-9cbe-bf79e635f5ab/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/04c7f4e0-41d8-4d02-9cbe-bf79e635f5ab/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/04c7f4e0-41d8-4d02-9cbe-bf79e635f5ab/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/04c7f4e0-41d8-4d02-9cbe-bf79e635f5ab/audio-files/audio.wav",
+      "sampleScript": "悪い子だね。 ねぇ、もっと僕を困らせてみてよ。 そっちの方が面白いからさ",
+      "recommendedVoiceSpeed": 1,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 49,
+          "style": "独特"
+        },
+        {
+          "id": 68,
+          "style": "魅力的"
+        },
+        {
+          "id": 19,
+          "style": "ヤンデレ"
+        },
+        {
+          "id": 17,
+          "style": "ミステリアス"
+        }
+      ]
+    },
+    {
+      "id": "d158278c-c4fa-461a-b271-468146ad51c9",
+      "name": "冬月 初音",
+      "nameReading": "ふゆつき はつね",
+      "age": 16,
+      "gender": "FEMALE",
+      "birthMonth": 1,
+      "birthDay": 1,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/d158278c-c4fa-461a-b271-468146ad51c9/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/d158278c-c4fa-461a-b271-468146ad51c9/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/d158278c-c4fa-461a-b271-468146ad51c9/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/d158278c-c4fa-461a-b271-468146ad51c9/audio-files/audio.wav",
+      "sampleScript": "ふわぁ〜。こうやって空を見上げると、なんだか心がほっとするねぇ。 そーだ！今日はこのままサボっちゃおっか？",
+      "recommendedVoiceSpeed": 1.1,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 20,
+          "style": "ロリ"
+        },
+        {
+          "id": 31,
+          "style": "可愛い"
+        },
+        {
+          "id": 6,
+          "style": "お茶目"
+        },
+        {
+          "id": 41,
+          "style": "明るい"
+        }
+      ]
+    },
+    {
+      "id": "29cdf589-e581-4ab0-8467-0cd0c7ba640f",
+      "name": "陽斗・エイデン・グリーンウッド",
+      "nameReading": "はると・えいでんぐりーんうっど",
+      "age": 16,
+      "gender": "MALE",
+      "birthMonth": 4,
+      "birthDay": 18,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/29cdf589-e581-4ab0-8467-0cd0c7ba640f/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/29cdf589-e581-4ab0-8467-0cd0c7ba640f/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/29cdf589-e581-4ab0-8467-0cd0c7ba640f/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/29cdf589-e581-4ab0-8467-0cd0c7ba640f/audio-files/audio.wav",
+      "sampleScript": "どんなピンチだって、乗り越えるためにあるんだよな！ んじゃぁ行くか！悩んでる時間なんて勿体ないもんね！",
+      "recommendedVoiceSpeed": 0.8,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 58,
+          "style": "素直"
+        },
+        {
+          "id": 43,
+          "style": "活発"
+        },
+        {
+          "id": 41,
+          "style": "明るい"
+        },
+        {
+          "id": 34,
+          "style": "少年"
+        }
+      ]
+    },
+    {
+      "id": "2f982b65-dbc3-4ed6-b355-b0f7c0abaa70",
+      "name": "苔村 まりも",
+      "nameReading": "こけむら まりも",
+      "age": 17,
+      "gender": "FEMALE",
+      "birthMonth": 6,
+      "birthDay": 15,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/2f982b65-dbc3-4ed6-b355-b0f7c0abaa70/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/2f982b65-dbc3-4ed6-b355-b0f7c0abaa70/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/2f982b65-dbc3-4ed6-b355-b0f7c0abaa70/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/2f982b65-dbc3-4ed6-b355-b0f7c0abaa70/audio-files/audio.wav",
+      "sampleScript": "あーねむ…。授業始まるまでちょっと寝るかぁ。 いいよ、始まっても起こさなくて。 うむ、ノートは任せた。 …報酬。仕方ない。駅前のタピオカでどうだっ",
+      "recommendedVoiceSpeed": 0.8,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 59,
+          "style": "緩い"
+        },
+        {
+          "id": 49,
+          "style": "独特"
+        },
+        {
+          "id": 61,
+          "style": "落ち着いた"
+        }
+      ]
+    },
+    {
+      "id": "6eafd860-d757-4469-80d5-3fee8375792d",
+      "name": "野本 藍一郎",
+      "nameReading": "のもと あいいちろう",
+      "age": 18,
+      "gender": "MALE",
+      "birthMonth": 9,
+      "birthDay": 29,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/6eafd860-d757-4469-80d5-3fee8375792d/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/6eafd860-d757-4469-80d5-3fee8375792d/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/6eafd860-d757-4469-80d5-3fee8375792d/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/6eafd860-d757-4469-80d5-3fee8375792d/audio-files/audio.wav",
+      "sampleScript": "こんな僕でも、少しは…みんなの役に立てるのかなって。 みんなの笑顔のためにもっと頑張りたいって…思えたんだ。",
+      "recommendedVoiceSpeed": 1,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 66,
+          "style": "静か"
+        },
+        {
+          "id": 45,
+          "style": "澄んだ"
+        },
+        {
+          "id": 57,
+          "style": "素朴"
+        }
+      ]
+    },
+    {
+      "id": "16e979a8-cd0f-49d4-a4c4-7a25aa42e184",
+      "name": "ぽの",
+      "age": 2,
+      "gender": "FEMALE",
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/16e979a8-cd0f-49d4-a4c4-7a25aa42e184/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/16e979a8-cd0f-49d4-a4c4-7a25aa42e184/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/16e979a8-cd0f-49d4-a4c4-7a25aa42e184/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/16e979a8-cd0f-49d4-a4c4-7a25aa42e184/audio-files/audio.wav",
+      "sampleScript": "ぽぽっぽぽぽっぽっ！ …ぽぽ…ぽ？ぽー？ ぽぽのぽのっぽのーっ！",
+      "recommendedVoiceSpeed": 0.8,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 6,
+          "style": "お茶目"
+        },
+        {
+          "id": 35,
+          "style": "幼い"
+        },
+        {
+          "id": 41,
+          "style": "明るい"
+        },
+        {
+          "id": 50,
+          "style": "猫系"
+        }
+      ]
+    },
+    {
+      "id": "47abf5ad-5336-4ace-9254-c145590a9576",
+      "name": "ラピス",
+      "age": 23,
+      "gender": "FEMALE",
+      "birthMonth": 10,
+      "birthDay": 8,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/47abf5ad-5336-4ace-9254-c145590a9576/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/47abf5ad-5336-4ace-9254-c145590a9576/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/47abf5ad-5336-4ace-9254-c145590a9576/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/47abf5ad-5336-4ace-9254-c145590a9576/audio-files/audio.wav",
+      "sampleScript": "あ、あのね、もう少しだけくっついてもいい？ …なんて、ちょっと甘えすぎちゃった…かな。",
+      "recommendedVoiceSpeed": 0.8,
+      "recommendedEmotionalLevel": 0.4,
+      "recommendedSoundDuration": 0.4,
+      "voiceStyles": [
+        {
+          "id": 1,
+          "style": "ASMR"
+        },
+        {
+          "id": 52,
+          "style": "甘え"
+        },
+        {
+          "id": 31,
+          "style": "可愛い"
+        }
+      ]
+    },
+    {
+      "id": "43f29cd5-811d-4f62-b321-6a2248e79a71",
+      "name": "朝霧 瑞樹",
+      "nameReading": "あさぎり みずき",
+      "age": 26,
+      "gender": "MALE",
+      "birthMonth": 3,
+      "birthDay": 5,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/43f29cd5-811d-4f62-b321-6a2248e79a71/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/43f29cd5-811d-4f62-b321-6a2248e79a71/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/43f29cd5-811d-4f62-b321-6a2248e79a71/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/43f29cd5-811d-4f62-b321-6a2248e79a71/audio-files/audio.wav",
+      "sampleScript": "ふふ、君って本当に不思議だね。 君のことを知れば知るほど、もっと側にいたくなるよ",
+      "recommendedVoiceSpeed": 0.9,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 8,
+          "style": "かっこいい系"
+        },
+        {
+          "id": 61,
+          "style": "落ち着いた"
+        },
+        {
+          "id": 25,
+          "style": "優しい"
+        },
+        {
+          "id": 39,
+          "style": "成熟"
+        }
+      ]
+    },
+    {
+      "id": "65721129-028e-4fcc-8b9d-9974f670fe94",
+      "name": "三浦 隼人",
+      "nameReading": "みうら　はやと",
+      "age": 30,
+      "gender": "MALE",
+      "birthMonth": 5,
+      "birthDay": 20,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/65721129-028e-4fcc-8b9d-9974f670fe94/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/65721129-028e-4fcc-8b9d-9974f670fe94/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/65721129-028e-4fcc-8b9d-9974f670fe94/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/65721129-028e-4fcc-8b9d-9974f670fe94/audio-files/audio.wav",
+      "sampleScript": "肩の力抜くのも大事だぞ。 ははっ俺だって新人の頃は出来ないこともたくさんあったよ。 そーだ。終わったら一杯いく？愚痴でも何でも聞くからさ",
+      "recommendedVoiceSpeed": 0.8,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 61,
+          "style": "落ち着いた"
+        },
+        {
+          "id": 67,
+          "style": "頼りになる"
+        },
+        {
+          "id": 24,
+          "style": "低い"
+        }
+      ]
+    },
+    {
+      "id": "544f6937-f2cd-4fde-a094-a1d612071be3",
+      "name": "遠野 澄花",
+      "nameReading": "とうの すみか",
+      "age": 17,
+      "gender": "FEMALE",
+      "birthMonth": 3,
+      "birthDay": 25,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/544f6937-f2cd-4fde-a094-a1d612071be3/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/544f6937-f2cd-4fde-a094-a1d612071be3/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/544f6937-f2cd-4fde-a094-a1d612071be3/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/544f6937-f2cd-4fde-a094-a1d612071be3/audio-files/audio.wav",
+      "sampleScript": "おはよう、今日も元気に咲いてくれてるね！ 昨日より少し背が伸びたかな？ 放課後またお水あげるから、待っててね！",
+      "recommendedVoiceSpeed": 0.9,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 29,
+          "style": "内向"
+        },
+        {
+          "id": 45,
+          "style": "澄んだ"
+        },
+        {
+          "id": 25,
+          "style": "優しい"
+        }
+      ]
+    },
+    {
+      "id": "c9482acf-a907-4211-a37c-198b72184218",
+      "name": "セドリック・E・ウィットモア",
+      "age": 12,
+      "gender": "MALE",
+      "birthMonth": 2,
+      "birthDay": 11,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/c9482acf-a907-4211-a37c-198b72184218/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/c9482acf-a907-4211-a37c-198b72184218/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/c9482acf-a907-4211-a37c-198b72184218/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/c9482acf-a907-4211-a37c-198b72184218/audio-files/audio.wav",
+      "sampleScript": "君の努力は認めよう。 だが、結果を求めることなく、努力を積み重ねるだけでは、迷子になるだけさ。 僕が目指すのは、“確かな実力”だ。",
+      "recommendedVoiceSpeed": 0.9,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 55,
+          "style": "知的"
+        },
+        {
+          "id": 34,
+          "style": "少年"
+        },
+        {
+          "id": 13,
+          "style": "クール"
+        }
+      ]
+    },
+    {
+      "id": "ae42d8b0-0c4b-4289-95b7-cf988569af36",
+      "name": "若草 ひかり",
+      "nameReading": "わかくさ ひかり",
+      "age": 7,
+      "gender": "FEMALE",
+      "birthMonth": 4,
+      "birthDay": 16,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/ae42d8b0-0c4b-4289-95b7-cf988569af36/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/ae42d8b0-0c4b-4289-95b7-cf988569af36/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/ae42d8b0-0c4b-4289-95b7-cf988569af36/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/ae42d8b0-0c4b-4289-95b7-cf988569af36/audio-files/audio.wav",
+      "sampleScript": "お空がこんなに青いと、なんだかワクワクしてくるよね！今日はいっぱい遊ぼうね！…さ、早く行こっ！みんな待ってるよー！",
+      "recommendedVoiceSpeed": 1,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 36,
+          "style": "幼女"
+        },
+        {
+          "id": 27,
+          "style": "元気"
+        },
+        {
+          "id": 9,
+          "style": "かわいい"
+        },
+        {
+          "id": 56,
+          "style": "純粋"
+        }
+      ]
+    },
+    {
+      "id": "22e6801c-29ce-49cf-b499-7a69ea80c5ea",
+      "name": "羽依",
+      "nameReading": "うい",
+      "age": 14,
+      "gender": "FEMALE",
+      "birthMonth": 7,
+      "birthDay": 7,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/22e6801c-29ce-49cf-b499-7a69ea80c5ea/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/22e6801c-29ce-49cf-b499-7a69ea80c5ea/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/22e6801c-29ce-49cf-b499-7a69ea80c5ea/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/22e6801c-29ce-49cf-b499-7a69ea80c5ea/audio-files/audio.wav",
+      "sampleScript": "わたしは、ひとりでいるのが好き…じゃないんです⋯！ 本当のほんとはっもっともっと、みんなと一緒にいたいんです！",
+      "recommendedVoiceSpeed": 0.9,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 29,
+          "style": "内向"
+        },
+        {
+          "id": 45,
+          "style": "澄んだ"
+        },
+        {
+          "id": 3,
+          "style": "おどおどする"
+        }
+      ]
+    },
+    {
+      "id": "802d2a62-e786-4bb8-ba9c-62ccd0554746",
+      "name": "キア",
+      "age": 20,
+      "gender": "MALE",
+      "birthMonth": 8,
+      "birthDay": 8,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/802d2a62-e786-4bb8-ba9c-62ccd0554746/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/802d2a62-e786-4bb8-ba9c-62ccd0554746/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/802d2a62-e786-4bb8-ba9c-62ccd0554746/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/802d2a62-e786-4bb8-ba9c-62ccd0554746/audio-files/audio.wav",
+      "sampleScript": "あれれ？そんな真剣な顔しちゃってどうしたの？  オレ、もしかして惚れられちゃった？！ なーんてにゃっ♪じょーだん冗談〜",
+      "recommendedVoiceSpeed": 0.8,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 63,
+          "style": "軽快"
+        },
+        {
+          "id": 41,
+          "style": "明るい"
+        },
+        {
+          "id": 50,
+          "style": "猫系"
+        }
+      ]
+    },
+    {
+      "id": "8c08fd5b-b3eb-4294-b102-a1da00f09c72",
+      "name": "高槻 リコ",
+      "nameReading": "たかつき りこ",
+      "age": 16,
+      "gender": "FEMALE",
+      "birthMonth": 8,
+      "birthDay": 18,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/8c08fd5b-b3eb-4294-b102-a1da00f09c72/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/8c08fd5b-b3eb-4294-b102-a1da00f09c72/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/8c08fd5b-b3eb-4294-b102-a1da00f09c72/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/8c08fd5b-b3eb-4294-b102-a1da00f09c72/audio-files/audio.wav",
+      "sampleScript": "ウチのポリシー？いいことは全力で楽しむ、悪いことは全力で蹴散らすっ たったそれだけ！簡単っしょ！",
+      "recommendedVoiceSpeed": 0.9,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 63,
+          "style": "軽快"
+        },
+        {
+          "id": 43,
+          "style": "活発"
+        },
+        {
+          "id": 41,
+          "style": "明るい"
+        },
+        {
+          "id": 6,
+          "style": "お茶目"
+        }
+      ]
+    },
+    {
+      "id": "90031163-c497-44f3-a8a6-e45e4d0cb8f6",
+      "name": "深海 結涼",
+      "nameReading": "ふかみ ゆず",
+      "age": 17,
+      "gender": "FEMALE",
+      "birthMonth": 6,
+      "birthDay": 20,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/90031163-c497-44f3-a8a6-e45e4d0cb8f6/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/90031163-c497-44f3-a8a6-e45e4d0cb8f6/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/90031163-c497-44f3-a8a6-e45e4d0cb8f6/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/90031163-c497-44f3-a8a6-e45e4d0cb8f6/audio-files/audio.wav",
+      "sampleScript": "スケジュールに変更がある場合は、必ず事前に連絡してください、あとは私が、完璧に調整します。",
+      "recommendedVoiceSpeed": 0.9,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 26,
+          "style": "優等生"
+        },
+        {
+          "id": 10,
+          "style": "まじめ"
+        },
+        {
+          "id": 32,
+          "style": "学生"
+        },
+        {
+          "id": 18,
+          "style": "メガネ"
+        },
+        {
+          "id": 53,
+          "style": "生徒会書記"
+        }
+      ]
+    },
+    {
+      "id": "ac6b27b6-88aa-4621-9ed5-11031f638dcb",
+      "name": "タルト",
+      "age": 4,
+      "gender": "MALE",
+      "birthMonth": 7,
+      "birthDay": 31,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/ac6b27b6-88aa-4621-9ed5-11031f638dcb/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/ac6b27b6-88aa-4621-9ed5-11031f638dcb/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/ac6b27b6-88aa-4621-9ed5-11031f638dcb/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/ac6b27b6-88aa-4621-9ed5-11031f638dcb/audio-files/audio.wav",
+      "sampleScript": "あのねっ、あのね！ぼく、くちゅ、ぜんぶじぶんではいた！ しゅごいでしょっ！んえっ？！ちがう？ しょんにゃああぁぁぁぁぁー！",
+      "recommendedVoiceSpeed": 0.8,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 35,
+          "style": "幼い"
+        },
+        {
+          "id": 43,
+          "style": "活発"
+        },
+        {
+          "id": 34,
+          "style": "少年"
+        },
+        {
+          "id": 50,
+          "style": "猫系"
+        }
+      ]
+    },
+    {
+      "id": "005d1041-f03e-4f81-a9c3-de53adbdae5a",
+      "name": "神崎 怜司",
+      "nameReading": "かんざき　れいじ",
+      "age": 31,
+      "gender": "MALE",
+      "birthMonth": 10,
+      "birthDay": 13,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/005d1041-f03e-4f81-a9c3-de53adbdae5a/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/005d1041-f03e-4f81-a9c3-de53adbdae5a/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/005d1041-f03e-4f81-a9c3-de53adbdae5a/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/005d1041-f03e-4f81-a9c3-de53adbdae5a/audio-files/audio.wav",
+      "sampleScript": "おい、また間違えてるぞ。ったくお前は。何回言えばわかるんだ まぁ、今回までは見逃してやるが。次やったらお仕置きな？",
+      "recommendedVoiceSpeed": 1,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 61,
+          "style": "落ち着いた"
+        },
+        {
+          "id": 60,
+          "style": "自信満々"
+        },
+        {
+          "id": 13,
+          "style": "クール"
+        }
+      ]
+    },
+    {
+      "id": "cd6cc3fe-3f4c-49e3-b413-3766f13b3a4a",
+      "name": "月城 美蘭",
+      "nameReading": "つきしろ みらん",
+      "age": 14,
+      "gender": "FEMALE",
+      "birthMonth": 11,
+      "birthDay": 11,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/cd6cc3fe-3f4c-49e3-b413-3766f13b3a4a/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/cd6cc3fe-3f4c-49e3-b413-3766f13b3a4a/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/cd6cc3fe-3f4c-49e3-b413-3766f13b3a4a/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/cd6cc3fe-3f4c-49e3-b413-3766f13b3a4a/audio-files/audio.wav",
+      "sampleScript": "ひとりのほうが落ち着くの。人といるのは、ちょっと苦手。 なに話せばいいかわかんない。君は⋯居てもいいけど",
+      "recommendedVoiceSpeed": 0.9,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 29,
+          "style": "内向"
+        },
+        {
+          "id": 20,
+          "style": "ロリ"
+        },
+        {
+          "id": 61,
+          "style": "落ち着いた"
+        }
+      ]
+    },
+    {
+      "id": "ce87e7b3-506e-4871-a900-7aa9408a660f",
+      "name": "久世 凛",
+      "nameReading": "くぜ りん",
+      "age": 17,
+      "gender": "MALE",
+      "birthMonth": 1,
+      "birthDay": 9,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/ce87e7b3-506e-4871-a900-7aa9408a660f/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/ce87e7b3-506e-4871-a900-7aa9408a660f/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/ce87e7b3-506e-4871-a900-7aa9408a660f/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/ce87e7b3-506e-4871-a900-7aa9408a660f/audio-files/audio.wav",
+      "sampleScript": "君には感謝してるよ。おかげでここまで計画通りに進んだんだからね。 あぁ、そんな顔しないでおくれよ。ぞくぞくしちゃうからさ",
+      "recommendedVoiceSpeed": 1,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 68,
+          "style": "魅力的"
+        },
+        {
+          "id": 55,
+          "style": "知的"
+        },
+        {
+          "id": 17,
+          "style": "ミステリアス"
+        }
+      ]
+    },
+    {
+      "id": "5f1e8106-5e5a-422f-b269-9f2e53c18146",
+      "name": "灯真",
+      "nameReading": "とうま",
+      "age": 28,
+      "gender": "MALE",
+      "birthMonth": 12,
+      "birthDay": 21,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/5f1e8106-5e5a-422f-b269-9f2e53c18146/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/5f1e8106-5e5a-422f-b269-9f2e53c18146/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/5f1e8106-5e5a-422f-b269-9f2e53c18146/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/5f1e8106-5e5a-422f-b269-9f2e53c18146/audio-files/audio.wav",
+      "sampleScript": "君といると、時間があっという間に過ぎちゃうんだよね。 だからもう少しだけ。このままでいよ？",
+      "recommendedVoiceSpeed": 1,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 8,
+          "style": "かっこいい系"
+        },
+        {
+          "id": 13,
+          "style": "クール"
+        },
+        {
+          "id": 51,
+          "style": "甘い"
+        }
+      ]
+    },
+    {
+      "id": "9d9ed276-49ee-443a-bc19-26e6136d05f0",
+      "name": "ヴィヴィアン",
+      "age": 16,
+      "gender": "FEMALE",
+      "birthMonth": 7,
+      "birthDay": 20,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/9d9ed276-49ee-443a-bc19-26e6136d05f0/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/9d9ed276-49ee-443a-bc19-26e6136d05f0/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/9d9ed276-49ee-443a-bc19-26e6136d05f0/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/9d9ed276-49ee-443a-bc19-26e6136d05f0/audio-files/audio.wav",
+      "sampleScript": "大丈夫！失敗したら、そのときはわたしが全力でフォローしてあげるから！ できるかどうかなんて考えない！ ちからを合わせて、最高の結果を出すわよ！",
+      "recommendedVoiceSpeed": 0.9,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 27,
+          "style": "元気"
+        },
+        {
+          "id": 14,
+          "style": "チャキチャキ"
+        },
+        {
+          "id": 37,
+          "style": "快活"
+        },
+        {
+          "id": 30,
+          "style": "勝ち気"
+        }
+      ]
+    },
+    {
+      "id": "d611b94f-2c49-48f3-863f-cba53c9175a4",
+      "name": "桜庭 恭平",
+      "nameReading": "さくらば きょうへい",
+      "age": 28,
+      "gender": "MALE",
+      "birthMonth": 5,
+      "birthDay": 12,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/d611b94f-2c49-48f3-863f-cba53c9175a4/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/d611b94f-2c49-48f3-863f-cba53c9175a4/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/d611b94f-2c49-48f3-863f-cba53c9175a4/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/d611b94f-2c49-48f3-863f-cba53c9175a4/audio-files/audio.wav",
+      "sampleScript": "ほーら、そんな難しい顔すんなって！大丈夫大丈夫！ 明日になりゃ、自然と笑い話になっちまうからさ！",
+      "recommendedVoiceSpeed": 0.7,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 21,
+          "style": "ワイルド"
+        },
+        {
+          "id": 22,
+          "style": "丈夫"
+        },
+        {
+          "id": 39,
+          "style": "成熟"
+        },
+        {
+          "id": 24,
+          "style": "低い"
+        }
+      ]
+    },
+    {
+      "id": "c853dd84-6fb1-41bd-b82e-303d5f35fe38",
+      "name": "イルミル",
+      "gender": "MALE",
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/c853dd84-6fb1-41bd-b82e-303d5f35fe38/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/c853dd84-6fb1-41bd-b82e-303d5f35fe38/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/c853dd84-6fb1-41bd-b82e-303d5f35fe38/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/c853dd84-6fb1-41bd-b82e-303d5f35fe38/audio-files/audio.wav",
+      "sampleScript": "どうぞご心配なく。両の眼は少々不自由ではございますが。 感覚を研ぎ澄ませば、見える景色があるんです。 それもまた素敵なんです！",
+      "recommendedVoiceSpeed": 1,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 41,
+          "style": "明るい"
+        },
+        {
+          "id": 34,
+          "style": "少年"
+        },
+        {
+          "id": 23,
+          "style": "中性"
+        }
+      ]
+    },
+    {
+      "id": "b6d08e70-dbbb-48cc-b808-d4b3fad1eea8",
+      "name": "篠崎 優也",
+      "nameReading": "しのざき ゆうや",
+      "age": 19,
+      "gender": "MALE",
+      "birthMonth": 11,
+      "birthDay": 25,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/b6d08e70-dbbb-48cc-b808-d4b3fad1eea8/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/b6d08e70-dbbb-48cc-b808-d4b3fad1eea8/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/b6d08e70-dbbb-48cc-b808-d4b3fad1eea8/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/b6d08e70-dbbb-48cc-b808-d4b3fad1eea8/audio-files/audio.wav",
+      "sampleScript": "あ、ありがとう。こんな僕のこと気にかけてくれるなんて… 思わなかった… 。 やっ、えっと… そっあっそんな近寄られるとちょっと… っ恥ずかしくて… ！ごっごめん！",
+      "recommendedVoiceSpeed": 0.9,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 29,
+          "style": "内向"
+        },
+        {
+          "id": 61,
+          "style": "落ち着いた"
+        },
+        {
+          "id": 3,
+          "style": "おどおどする"
+        }
+      ]
+    },
+    {
+      "id": "253ee5ac-b9e5-4186-8102-2845b14cded7",
+      "name": "ノエラ",
+      "age": 10,
+      "gender": "FEMALE",
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/253ee5ac-b9e5-4186-8102-2845b14cded7/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/253ee5ac-b9e5-4186-8102-2845b14cded7/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/253ee5ac-b9e5-4186-8102-2845b14cded7/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/253ee5ac-b9e5-4186-8102-2845b14cded7/audio-files/audio.wav",
+      "sampleScript": "あんた、人間でしょ？何しに来たのよ？森の秘密？ …ま、まぁ、少しだけなら教えてあげてもいいけど？ その代わり⋯友達になってくれる？",
+      "recommendedVoiceSpeed": 1,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 45,
+          "style": "澄んだ"
+        },
+        {
+          "id": 35,
+          "style": "幼い"
+        }
+      ]
+    },
+    {
+      "id": "4407962b-8901-447a-8e0e-7896a0d230c0",
+      "name": "ヴィクター・D・アシュフォード",
+      "age": 56,
+      "gender": "MALE",
+      "birthMonth": 8,
+      "birthDay": 5,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/4407962b-8901-447a-8e0e-7896a0d230c0/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/4407962b-8901-447a-8e0e-7896a0d230c0/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/4407962b-8901-447a-8e0e-7896a0d230c0/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/4407962b-8901-447a-8e0e-7896a0d230c0/audio-files/audio.wav",
+      "sampleScript": "直感を信じろ。たとえ証拠が揃ってなくても、違和感を見逃すな。 それが事件の核心に迫るカギってもんだ。ハハッ長年の勘ってやつさ",
+      "recommendedVoiceSpeed": 0.9,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 21,
+          "style": "ワイルド"
+        },
+        {
+          "id": 64,
+          "style": "重厚"
+        },
+        {
+          "id": 2,
+          "style": "おじさん"
+        }
+      ]
+    },
+    {
+      "id": "3820373d-e534-4a9b-b19c-b9d9a1c23c3e",
+      "name": "エヴァニア・ノクターン",
+      "age": 500,
+      "gender": "FEMALE",
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/3820373d-e534-4a9b-b19c-b9d9a1c23c3e/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/3820373d-e534-4a9b-b19c-b9d9a1c23c3e/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/3820373d-e534-4a9b-b19c-b9d9a1c23c3e/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/3820373d-e534-4a9b-b19c-b9d9a1c23c3e/audio-files/audio.wav",
+      "sampleScript": "虫けらどもの命がどうなろうと、我には関係ないことだ。 まぁ、何百年と過ごした我の退屈を紛らわせるには、いい余興ではあるがな",
+      "recommendedVoiceSpeed": 0.8,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 39,
+          "style": "成熟"
+        },
+        {
+          "id": 4,
+          "style": "お姉さん"
+        },
+        {
+          "id": 7,
+          "style": "かっこいい"
+        },
+        {
+          "id": 69,
+          "style": "魅惑的"
+        }
+      ]
+    },
+    {
+      "id": "f9ce50d1-2d89-415b-8045-49a78765fc98",
+      "name": "ロザリア・ガーネット",
+      "age": 15,
+      "gender": "FEMALE",
+      "birthMonth": 1,
+      "birthDay": 24,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/f9ce50d1-2d89-415b-8045-49a78765fc98/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/f9ce50d1-2d89-415b-8045-49a78765fc98/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/f9ce50d1-2d89-415b-8045-49a78765fc98/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/f9ce50d1-2d89-415b-8045-49a78765fc98/audio-files/audio.wav",
+      "sampleScript": "べ、別に緊張なんてしてないですわ。 このくらい、私にとってはモーニング前ってやつですもの！ …手が震えてる？こっ、これは！ただの闘志の高まり…ですわ！",
+      "recommendedVoiceSpeed": 0.9,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 5,
+          "style": "お嬢様"
+        },
+        {
+          "id": 29,
+          "style": "内向"
+        },
+        {
+          "id": 45,
+          "style": "澄んだ"
+        }
+      ]
+    },
+    {
+      "id": "f35cb410-d2e8-40ad-8bce-9235951528ed",
+      "name": "李 昊天",
+      "nameReading": "り こうてん",
+      "age": 20,
+      "gender": "MALE",
+      "birthMonth": 6,
+      "birthDay": 6,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/f35cb410-d2e8-40ad-8bce-9235951528ed/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/f35cb410-d2e8-40ad-8bce-9235951528ed/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/f35cb410-d2e8-40ad-8bce-9235951528ed/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/f35cb410-d2e8-40ad-8bce-9235951528ed/audio-files/audio.wav",
+      "sampleScript": "衝突は避けられぬ運命かもしれません。 しかし、力を振るうだけが答えではない。 相手を知り、己を知ることで、勝利は近づくのです",
+      "recommendedVoiceSpeed": 0.9,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 46,
+          "style": "熱血"
+        },
+        {
+          "id": 54,
+          "style": "生真面目"
+        },
+        {
+          "id": 67,
+          "style": "頼りになる"
+        }
+      ]
+    },
+    {
+      "id": "249d8d02-2c25-4a24-8faf-26d6f734b7bc",
+      "name": "蘭華",
+      "nameReading": "らんか",
+      "age": 28,
+      "gender": "FEMALE",
+      "birthMonth": 12,
+      "birthDay": 13,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/249d8d02-2c25-4a24-8faf-26d6f734b7bc/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/249d8d02-2c25-4a24-8faf-26d6f734b7bc/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/249d8d02-2c25-4a24-8faf-26d6f734b7bc/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/249d8d02-2c25-4a24-8faf-26d6f734b7bc/audio-files/audio.wav",
+      "sampleScript": "私と交渉しようって？ふーん、面白いじゃない。 そうね。あなたがもし私を説得できたら、貴方のこと忘れられなくなっちゃうかも。 そしたら、もちろん責任とってくれるんでしょ？",
+      "recommendedVoiceSpeed": 0.9,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 60,
+          "style": "自信満々"
+        },
+        {
+          "id": 39,
+          "style": "成熟"
+        },
+        {
+          "id": 4,
+          "style": "お姉さん"
+        },
+        {
+          "id": 67,
+          "style": "頼りになる"
+        }
+      ]
+    },
+    {
+      "id": "bacdea77-033a-41d0-80d5-cb8048ed39ff",
+      "name": "トリッカ",
+      "age": 12,
+      "gender": "FEMALE",
+      "birthMonth": 10,
+      "birthDay": 31,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/bacdea77-033a-41d0-80d5-cb8048ed39ff/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/bacdea77-033a-41d0-80d5-cb8048ed39ff/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/bacdea77-033a-41d0-80d5-cb8048ed39ff/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/bacdea77-033a-41d0-80d5-cb8048ed39ff/audio-files/audio.wav",
+      "sampleScript": "人間の世界って、暗くてもキラキラしてるんだね！ おつきさまってヤツも、ピカピカでまんまるで、すっごくおいしそうっ",
+      "recommendedVoiceSpeed": 0.9,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 20,
+          "style": "ロリ"
+        },
+        {
+          "id": 63,
+          "style": "軽快"
+        },
+        {
+          "id": 41,
+          "style": "明るい"
+        }
+      ]
+    },
+    {
+      "id": "24c33ff0-f4ea-475b-8137-3f95baf69e5e",
+      "name": "霧島 律",
+      "nameReading": "きりしま　りつ",
+      "age": 18,
+      "gender": "MALE",
+      "birthMonth": 2,
+      "birthDay": 16,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/24c33ff0-f4ea-475b-8137-3f95baf69e5e/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/24c33ff0-f4ea-475b-8137-3f95baf69e5e/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/24c33ff0-f4ea-475b-8137-3f95baf69e5e/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/24c33ff0-f4ea-475b-8137-3f95baf69e5e/audio-files/audio.wav",
+      "sampleScript": "また探しに来たのかよ…。風紀委員も大変なのなぁ。 今日はこのままサボっちまえば？ いい昼寝日和だぜ。委員長にも息抜きは必要だろ？",
+      "recommendedVoiceSpeed": 0.7,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 61,
+          "style": "落ち着いた"
+        },
+        {
+          "id": 66,
+          "style": "静か"
+        },
+        {
+          "id": 34,
+          "style": "少年"
+        }
+      ]
+    },
+    {
+      "id": "afd7df65-0fdc-4d31-ae8b-a29f0f5eed62",
+      "name": "春玲",
+      "nameReading": "しゅんれい",
+      "age": 27,
+      "gender": "FEMALE",
+      "birthMonth": 4,
+      "birthDay": 20,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/afd7df65-0fdc-4d31-ae8b-a29f0f5eed62/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/afd7df65-0fdc-4d31-ae8b-a29f0f5eed62/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/afd7df65-0fdc-4d31-ae8b-a29f0f5eed62/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/afd7df65-0fdc-4d31-ae8b-a29f0f5eed62/audio-files/audio.wav",
+      "sampleScript": "悩んだときはね、窓を開けてただ風を感じるといいわ。 なにも考えず、自然に身を委ねるのもいいものよ。さぁ、窓あけてー！",
+      "recommendedVoiceSpeed": 0.9,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 67,
+          "style": "頼りになる"
+        },
+        {
+          "id": 4,
+          "style": "お姉さん"
+        },
+        {
+          "id": 28,
+          "style": "先輩"
+        }
+      ]
+    },
+    {
+      "id": "b411e6f4-7d54-4d3d-acdc-94ac61f209cf",
+      "name": "白熊 愛鈴",
+      "nameReading": "しらくま あいりん",
+      "age": 15,
+      "gender": "FEMALE",
+      "birthMonth": 10,
+      "birthDay": 28,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/b411e6f4-7d54-4d3d-acdc-94ac61f209cf/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/b411e6f4-7d54-4d3d-acdc-94ac61f209cf/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/b411e6f4-7d54-4d3d-acdc-94ac61f209cf/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/b411e6f4-7d54-4d3d-acdc-94ac61f209cf/audio-files/audio.wav",
+      "sampleScript": "とりゃ～っ！私のこの華麗な動き、キミに見切れるかな！？\n …え、遅い？そんな～！一生懸命修行したのに～！",
+      "recommendedVoiceSpeed": 1,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 20,
+          "style": "ロリ"
+        },
+        {
+          "id": 41,
+          "style": "明るい"
+        },
+        {
+          "id": 6,
+          "style": "お茶目"
+        }
+      ]
+    },
+    {
+      "id": "bfd6cb77-d13a-44af-b0d9-dabd0aa505db",
+      "name": "星川 青葉",
+      "nameReading": "ほしかわ あおば",
+      "age": 18,
+      "gender": "FEMALE",
+      "birthMonth": 4,
+      "birthDay": 8,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/bfd6cb77-d13a-44af-b0d9-dabd0aa505db/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/bfd6cb77-d13a-44af-b0d9-dabd0aa505db/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/bfd6cb77-d13a-44af-b0d9-dabd0aa505db/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/bfd6cb77-d13a-44af-b0d9-dabd0aa505db/audio-files/audio.wav",
+      "sampleScript": "「いいライブだった」って？そんなの、アイドルなんだから 当然でしょ！\n …でも…もっと褒めてくれてもいいんだよ？",
+      "recommendedVoiceSpeed": 0.9,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 41,
+          "style": "明るい"
+        },
+        {
+          "id": 60,
+          "style": "自信満々"
+        },
+        {
+          "id": 5,
+          "style": "お嬢様"
+        }
+      ]
+    },
+    {
+      "id": "a63942a5-f4c1-4df3-a410-e039a3f4cabe",
+      "name": "シャルロッテ",
+      "age": 17,
+      "gender": "FEMALE",
+      "birthMonth": 5,
+      "birthDay": 1,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/a63942a5-f4c1-4df3-a410-e039a3f4cabe/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/a63942a5-f4c1-4df3-a410-e039a3f4cabe/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/a63942a5-f4c1-4df3-a410-e039a3f4cabe/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/a63942a5-f4c1-4df3-a410-e039a3f4cabe/audio-files/audio.wav",
+      "sampleScript": "このお花の香り、素晴らしいでしょう？ まるで心まで満たされるようですわね。 ふふっ、こんな素敵な時間を逃すなんてもったいないですわ。 ぜひ立ち止まって楽しんでみてはいかが？",
+      "recommendedVoiceSpeed": 0.8,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 12,
+          "style": "エレガント"
+        },
+        {
+          "id": 6,
+          "style": "お茶目"
+        },
+        {
+          "id": 5,
+          "style": "お嬢様"
+        }
+      ]
+    },
+    {
+      "id": "69f3f0fa-860b-46ff-a7d5-6a950500fb40",
+      "name": "高嶺 陽菜",
+      "nameReading": "たかみね ひな",
+      "age": 18,
+      "gender": "FEMALE",
+      "birthMonth": 6,
+      "birthDay": 10,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/69f3f0fa-860b-46ff-a7d5-6a950500fb40/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/69f3f0fa-860b-46ff-a7d5-6a950500fb40/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/69f3f0fa-860b-46ff-a7d5-6a950500fb40/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/69f3f0fa-860b-46ff-a7d5-6a950500fb40/audio-files/audio.wav",
+      "sampleScript": "これからもっと上手くなるから、練習中のミスは気にしない、気にしないっ。 あとは、手首をもう少し意識してやってみるといいかも。 今の感じを少し調整して、一緒にスマッシュ練習しよ！",
+      "recommendedVoiceSpeed": 0.8,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 28,
+          "style": "先輩"
+        },
+        {
+          "id": 25,
+          "style": "優しい"
+        },
+        {
+          "id": 62,
+          "style": "親切"
+        }
+      ]
+    },
+    {
+      "id": "a7619e48-bf6a-4f9f-843f-40485651257f",
+      "name": "森野 颯太",
+      "nameReading": "もりの そうた",
+      "age": 15,
+      "gender": "MALE",
+      "birthMonth": 9,
+      "birthDay": 14,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/a7619e48-bf6a-4f9f-843f-40485651257f/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/a7619e48-bf6a-4f9f-843f-40485651257f/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/a7619e48-bf6a-4f9f-843f-40485651257f/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/a7619e48-bf6a-4f9f-843f-40485651257f/audio-files/audio.wav",
+      "sampleScript": "ちょっなんですか今の影！絶対なんかいましたよねっ絶対いた！ ひょあぁ！ちょっ押さないでくださいよぉ！ フラグ！フラグ立ってますから！僕が生贄になるフラグが〜っ！",
+      "recommendedVoiceSpeed": 0.7,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 3,
+          "style": "おどおどする"
+        },
+        {
+          "id": 38,
+          "style": "慌ただしい"
+        }
+      ]
+    },
+    {
+      "id": "0040ee3d-f79b-4f41-bb46-33d7e14b38ed",
+      "name": "若宮 紬",
+      "nameReading": "わかみや つむぎ",
+      "age": 16,
+      "gender": "FEMALE",
+      "birthMonth": 9,
+      "birthDay": 18,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/0040ee3d-f79b-4f41-bb46-33d7e14b38ed/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/0040ee3d-f79b-4f41-bb46-33d7e14b38ed/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/0040ee3d-f79b-4f41-bb46-33d7e14b38ed/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/0040ee3d-f79b-4f41-bb46-33d7e14b38ed/audio-files/audio.wav",
+      "sampleScript": "雨の音って、不思議ですよね。冷たいはずなのに、心が落ち着くというか…。 嫌なことや面倒なことを、全部洗い流してくれる気がするんです。",
+      "recommendedVoiceSpeed": 1.1,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 61,
+          "style": "落ち着いた"
+        },
+        {
+          "id": 4,
+          "style": "お姉さん"
+        },
+        {
+          "id": 66,
+          "style": "静か"
+        }
+      ]
+    },
+    {
+      "id": "4b90f1ab-d6a9-4ace-93bb-0194d096ab3d",
+      "name": "黛 セナ",
+      "nameReading": "まゆずみ せな",
+      "age": 17,
+      "gender": "MALE",
+      "birthMonth": 1,
+      "birthDay": 11,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/4b90f1ab-d6a9-4ace-93bb-0194d096ab3d/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/4b90f1ab-d6a9-4ace-93bb-0194d096ab3d/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/4b90f1ab-d6a9-4ace-93bb-0194d096ab3d/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/4b90f1ab-d6a9-4ace-93bb-0194d096ab3d/audio-files/audio.wav",
+      "sampleScript": "何でもかんでも全クリ目指さなくてもいいんじゃん？ 楽しいとこだけ拾って進んで。とりあえずエンディングいければ、それで十分だと思うけど？ あーまぁ俺は普通にマルチエンディングも回収するけどね。",
+      "recommendedVoiceSpeed": 0.8,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 13,
+          "style": "クール"
+        },
+        {
+          "id": 55,
+          "style": "知的"
+        },
+        {
+          "id": 11,
+          "style": "インテリ"
+        }
+      ]
+    },
+    {
+      "id": "3c6b9ee2-f46b-4e89-b6e3-e5c560894cb5",
+      "name": "高坂 茉莉",
+      "nameReading": "こうさか まり",
+      "age": 17,
+      "gender": "FEMALE",
+      "birthMonth": 6,
+      "birthDay": 12,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/3c6b9ee2-f46b-4e89-b6e3-e5c560894cb5/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/3c6b9ee2-f46b-4e89-b6e3-e5c560894cb5/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/3c6b9ee2-f46b-4e89-b6e3-e5c560894cb5/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/3c6b9ee2-f46b-4e89-b6e3-e5c560894cb5/audio-files/audio.wav",
+      "sampleScript": "やったぁ～！最後の焼きそばパン、ゲット～！ …え、欲しかったの？ ごめんね～！でも、早い者勝ちですから！  そんなに見つめても、半分なんてあげませーん！",
+      "recommendedVoiceSpeed": 1,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 43,
+          "style": "活発"
+        },
+        {
+          "id": 41,
+          "style": "明るい"
+        },
+        {
+          "id": 6,
+          "style": "お茶目"
+        }
+      ]
+    },
+    {
+      "id": "5c3c5b2b-ddfb-466b-963a-a88f61638d6f",
+      "name": "淵",
+      "nameReading": "えん",
+      "age": 25,
+      "gender": "MALE",
+      "birthMonth": 12,
+      "birthDay": 8,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/5c3c5b2b-ddfb-466b-963a-a88f61638d6f/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/5c3c5b2b-ddfb-466b-963a-a88f61638d6f/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/5c3c5b2b-ddfb-466b-963a-a88f61638d6f/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/5c3c5b2b-ddfb-466b-963a-a88f61638d6f/audio-files/audio.wav",
+      "sampleScript": "余計な感情を挟むから判断が鈍るんです。 …とはいえ、感情があるからこそ生まれる発想もあるようです。 あなたの選択は型破りで、とても正気とは思えませんが、 今回だけは…信じてみるのも、悪くないかもしれませんね。",
+      "recommendedVoiceSpeed": 0.9,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 64,
+          "style": "重厚"
+        },
+        {
+          "id": 61,
+          "style": "落ち着いた"
+        },
+        {
+          "id": 11,
+          "style": "インテリ"
+        }
+      ]
+    },
+    {
+      "id": "b6142f17-1e4b-4fa3-9975-61c2ae186e46",
+      "name": "深景",
+      "nameReading": "みかげ",
+      "age": 1111,
+      "gender": "MALE",
+      "birthMonth": 5,
+      "birthDay": 15,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/b6142f17-1e4b-4fa3-9975-61c2ae186e46/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/b6142f17-1e4b-4fa3-9975-61c2ae186e46/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/b6142f17-1e4b-4fa3-9975-61c2ae186e46/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/b6142f17-1e4b-4fa3-9975-61c2ae186e46/audio-files/audio.wav",
+      "sampleScript": "お主、余の姿が見えるのか？ ほぉ、これは奇妙な縁だな。人の子と声を通わせたのは、実に何百年ぶりか。 気に入った！お主のこの物語、余もともに戯れてみるとしようかのぅ？",
+      "recommendedVoiceSpeed": 0.8,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 55,
+          "style": "知的"
+        },
+        {
+          "id": 45,
+          "style": "澄んだ"
+        },
+        {
+          "id": 7,
+          "style": "かっこいい"
+        },
+        {
+          "id": 48,
+          "style": "狐系"
+        }
+      ]
+    },
+    {
+      "id": "ea5114ea-751f-44aa-bfab-ca0c92f2749d",
+      "name": "レヴィエル",
+      "age": 15,
+      "gender": "MALE",
+      "birthMonth": 3,
+      "birthDay": 3,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/ea5114ea-751f-44aa-bfab-ca0c92f2749d/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/ea5114ea-751f-44aa-bfab-ca0c92f2749d/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/ea5114ea-751f-44aa-bfab-ca0c92f2749d/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/ea5114ea-751f-44aa-bfab-ca0c92f2749d/audio-files/audio.wav",
+      "sampleScript": "ハハッ俺様を誰だと思ってるんだ？初めてだろうと完璧にこなすさ。 努力なんてしなくても出来ちゃうんだよなぁ。ふっ天才だから。 まぁでも。お前のその全力で挑むところも、嫌いじゃないぜ？",
+      "recommendedVoiceSpeed": 0.8,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 63,
+          "style": "軽快"
+        },
+        {
+          "id": 60,
+          "style": "自信満々"
+        },
+        {
+          "id": 16,
+          "style": "ナレーション"
+        }
+      ]
+    },
+    {
+      "id": "3eb139c4-bb33-4b59-9f9c-ba2b0280e7b1",
+      "name": "久咲 悠仁",
+      "nameReading": "ひさぎ ゆうじん",
+      "age": 16,
+      "gender": "MALE",
+      "birthMonth": 4,
+      "birthDay": 29,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/3eb139c4-bb33-4b59-9f9c-ba2b0280e7b1/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/3eb139c4-bb33-4b59-9f9c-ba2b0280e7b1/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/3eb139c4-bb33-4b59-9f9c-ba2b0280e7b1/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/3eb139c4-bb33-4b59-9f9c-ba2b0280e7b1/audio-files/audio.wav",
+      "sampleScript": "人って意外と、自分の嘘には気づかないものなんですよね。 でも観察してみると案外わかりやすかったりする。 例えば、ほら。その手の動きとか、今の視線の向きとかね。 犯人は…あなたですね？",
+      "recommendedVoiceSpeed": 0.8,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 58,
+          "style": "素直"
+        },
+        {
+          "id": 55,
+          "style": "知的"
+        },
+        {
+          "id": 44,
+          "style": "温かい"
+        }
+      ]
+    },
+    {
+      "id": "a89a0edc-bb47-4e47-bac0-07ea2048e360",
+      "name": "ティ二ー",
+      "age": 9,
+      "gender": "MALE",
+      "birthMonth": 12,
+      "birthDay": 24,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/a89a0edc-bb47-4e47-bac0-07ea2048e360/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/a89a0edc-bb47-4e47-bac0-07ea2048e360/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/a89a0edc-bb47-4e47-bac0-07ea2048e360/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/a89a0edc-bb47-4e47-bac0-07ea2048e360/audio-files/audio.wav",
+      "sampleScript": "え？これから？お昼寝するよ。 だってほら、お日様が僕を呼んでるんだ。 へ、マシュマロ？くれるの？…じゃぁ。 もぐもぐ。おいしい…。…すぅ…すぅ…すや…。",
+      "recommendedVoiceSpeed": 0.8,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 35,
+          "style": "幼い"
+        },
+        {
+          "id": 57,
+          "style": "素朴"
+        },
+        {
+          "id": 66,
+          "style": "静か"
+        }
+      ]
+    },
+    {
+      "id": "abefb6a1-3bdf-4758-b22b-20f629a309fe",
+      "name": "白天",
+      "nameReading": "はくてん",
+      "gender": "MALE",
+      "birthMonth": 1,
+      "birthDay": 7,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/abefb6a1-3bdf-4758-b22b-20f629a309fe/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/abefb6a1-3bdf-4758-b22b-20f629a309fe/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/abefb6a1-3bdf-4758-b22b-20f629a309fe/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/abefb6a1-3bdf-4758-b22b-20f629a309fe/audio-files/audio.wav",
+      "sampleScript": "主のお傍にて仕えること、それこそが私の存在意義でございます。 主の望む未来のため、私は臆することなく闇へと立ち向かいましょう。 どうぞご命令を。",
+      "recommendedVoiceSpeed": 0.9,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 61,
+          "style": "落ち着いた"
+        },
+        {
+          "id": 25,
+          "style": "優しい"
+        },
+        {
+          "id": 44,
+          "style": "温かい"
+        },
+        {
+          "id": 16,
+          "style": "ナレーション"
+        }
+      ]
+    },
+    {
+      "id": "ee1dfb55-9feb-4152-a99a-df740cd5be22",
+      "name": "黒崎 里穂",
+      "nameReading": "くろさき りほ",
+      "age": 17,
+      "gender": "FEMALE",
+      "birthMonth": 8,
+      "birthDay": 9,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/ee1dfb55-9feb-4152-a99a-df740cd5be22/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/ee1dfb55-9feb-4152-a99a-df740cd5be22/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/ee1dfb55-9feb-4152-a99a-df740cd5be22/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/ee1dfb55-9feb-4152-a99a-df740cd5be22/audio-files/audio.wav",
+      "sampleScript": "えっ……私と、相合傘ですか？ ……で、でも、私なんかと一緒に歩いてたら、変に思われちゃうんじゃ……。",
+      "recommendedVoiceSpeed": 0.9,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 4,
+          "style": "お姉さん"
+        },
+        {
+          "id": 66,
+          "style": "静か"
+        },
+        {
+          "id": 3,
+          "style": "おどおどする"
+        }
+      ]
+    },
+    {
+      "id": "0d8e33fe-ae02-4d48-9f35-1a5c9ae6336b",
+      "name": "イリヤ・カレント",
+      "age": 19,
+      "gender": "MALE",
+      "birthMonth": 2,
+      "birthDay": 29,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/0d8e33fe-ae02-4d48-9f35-1a5c9ae6336b/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/0d8e33fe-ae02-4d48-9f35-1a5c9ae6336b/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/0d8e33fe-ae02-4d48-9f35-1a5c9ae6336b/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/0d8e33fe-ae02-4d48-9f35-1a5c9ae6336b/audio-files/audio.wav",
+      "sampleScript": "バカみてぇに武器を振り回すだけが戦いじゃないぜ？ 頭を使ぁ無駄に汗をかく必要なんてねぇんだよ。 んでもって、その全てがハマった時にゃスカーッとすんだよな。 どんな罠仕掛けるかって？そりゃぁ、ナイショだ。",
+      "recommendedVoiceSpeed": 0.8,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 60,
+          "style": "自信満々"
+        },
+        {
+          "id": 67,
+          "style": "頼りになる"
+        }
+      ]
+    },
+    {
+      "id": "13da52e1-8650-4559-8426-33d2ed557255",
+      "name": "リュウセイ",
+      "age": 22,
+      "gender": "MALE",
+      "birthMonth": 8,
+      "birthDay": 13,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/13da52e1-8650-4559-8426-33d2ed557255/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/13da52e1-8650-4559-8426-33d2ed557255/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/13da52e1-8650-4559-8426-33d2ed557255/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/13da52e1-8650-4559-8426-33d2ed557255/audio-files/audio.wav",
+      "sampleScript": "お？どうした？らしくねぇな…。筋肉痛？じゃぁねぇのか…。 そうだ、プロテインはよ、心の栄養でもあるんだぜ？ 悩んでる時こそ飲むべきだ！ ほーら、俺のシェイカー貸してやるよ！",
+      "recommendedVoiceSpeed": 0.8,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 46,
+          "style": "熱血"
+        },
+        {
+          "id": 63,
+          "style": "軽快"
+        },
+        {
+          "id": 41,
+          "style": "明るい"
+        }
+      ]
+    },
+    {
+      "id": "1cae479f-715c-422a-9714-3510b4903780",
+      "name": "白石 玲奈",
+      "nameReading": "しらいし れいな",
+      "age": 17,
+      "gender": "FEMALE",
+      "birthMonth": 10,
+      "birthDay": 15,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/1cae479f-715c-422a-9714-3510b4903780/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/1cae479f-715c-422a-9714-3510b4903780/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/1cae479f-715c-422a-9714-3510b4903780/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/1cae479f-715c-422a-9714-3510b4903780/audio-files/audio.wav",
+      "sampleScript": "ごきげんよう。今日はとても素敵なおてんきですわね。 何か楽しいことが始まりそう、そんな予感がいたしますわ。 ふふっ、わたくしの勘、結構当たるんですのよ？",
+      "recommendedVoiceSpeed": 0.9,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 12,
+          "style": "エレガント"
+        },
+        {
+          "id": 5,
+          "style": "お嬢様"
+        },
+        {
+          "id": 31,
+          "style": "可愛い"
+        }
+      ]
+    },
+    {
+      "id": "e6d9f195-8ff1-43e0-84e9-6e6a6de874fb",
+      "name": "如月 要",
+      "nameReading": "きさらぎ かなめ",
+      "age": 26,
+      "gender": "MALE",
+      "birthMonth": 2,
+      "birthDay": 19,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/e6d9f195-8ff1-43e0-84e9-6e6a6de874fb/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/e6d9f195-8ff1-43e0-84e9-6e6a6de874fb/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/e6d9f195-8ff1-43e0-84e9-6e6a6de874fb/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/e6d9f195-8ff1-43e0-84e9-6e6a6de874fb/audio-files/audio.wav",
+      "sampleScript": "楽しくもねぇのに笑うなよ。俺に媚びても無駄だしな。 つーか。そのツラ全然似合ってねぇんだよ。 無理して合わせんな、周りに。 どうせなら、お前がお前らしくいれる場所を探しな。じゃ。また会えたらな",
+      "recommendedVoiceSpeed": 0.8,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 61,
+          "style": "落ち着いた"
+        },
+        {
+          "id": 13,
+          "style": "クール"
+        },
+        {
+          "id": 15,
+          "style": "ツンデレ"
+        }
+      ]
+    },
+    {
+      "id": "d85208d1-aab3-4bbd-b6fa-004409526413",
+      "name": "ラファエル・グリモワール",
+      "age": 666,
+      "gender": "MALE",
+      "birthMonth": 9,
+      "birthDay": 30,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/d85208d1-aab3-4bbd-b6fa-004409526413/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/d85208d1-aab3-4bbd-b6fa-004409526413/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/d85208d1-aab3-4bbd-b6fa-004409526413/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/d85208d1-aab3-4bbd-b6fa-004409526413/audio-files/audio.wav",
+      "sampleScript": "…ふむ、この血の味はまるで、安酒のようですね…。 本来はもっと芳醇な香りであるべきなのに。 不摂生な生活が滲み出ていて実に不快極まりない。 しばらく休暇を与えますから、しっかり熟成させて戻っていらっしゃい。",
+      "recommendedVoiceSpeed": 0.8,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 13,
+          "style": "クール"
+        },
+        {
+          "id": 64,
+          "style": "重厚"
+        },
+        {
+          "id": 24,
+          "style": "低い"
+        },
+        {
+          "id": 39,
+          "style": "成熟"
+        }
+      ]
+    },
+    {
+      "id": "0a1f77b7-db87-4c35-9e31-5c6155097124",
+      "name": "春野 奏汰",
+      "nameReading": "はるの かなた",
+      "age": 17,
+      "gender": "MALE",
+      "birthMonth": 3,
+      "birthDay": 21,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/0a1f77b7-db87-4c35-9e31-5c6155097124/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/0a1f77b7-db87-4c35-9e31-5c6155097124/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/0a1f77b7-db87-4c35-9e31-5c6155097124/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/0a1f77b7-db87-4c35-9e31-5c6155097124/audio-files/audio.wav",
+      "sampleScript": "二人だけって、なんか…落ち着かないよね…。 あ、いや、嫌とかじゃなくて！むしろ嬉しいっていうか…。 あ、えっとっ今のわすれて！…あ、その、ごめん…。 やっぱり…ちょっとだけ覚えててくれたら嬉しいな",
+      "recommendedVoiceSpeed": 0.8,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 58,
+          "style": "素直"
+        },
+        {
+          "id": 45,
+          "style": "澄んだ"
+        },
+        {
+          "id": 41,
+          "style": "明るい"
+        }
+      ]
+    },
+    {
+      "id": "21a98868-151c-4c99-9a2a-cd2aeab30252",
+      "name": "篝",
+      "nameReading": "かがり",
+      "gender": "FEMALE",
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/21a98868-151c-4c99-9a2a-cd2aeab30252/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/21a98868-151c-4c99-9a2a-cd2aeab30252/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/21a98868-151c-4c99-9a2a-cd2aeab30252/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/21a98868-151c-4c99-9a2a-cd2aeab30252/audio-files/audio.wav",
+      "sampleScript": "人の迷いとは、森に広がる霧のようなもの。時が来れば、晴れるものです。 この御籤は、道を照らすあかり。さぁ、お手をどうぞ。 神の声を代弁するのが、私の務めでございます。",
+      "recommendedVoiceSpeed": 0.7,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 45,
+          "style": "澄んだ"
+        },
+        {
+          "id": 17,
+          "style": "ミステリアス"
+        },
+        {
+          "id": 68,
+          "style": "魅力的"
+        }
+      ]
+    },
+    {
+      "id": "500c9291-c56f-421c-ab8f-af8945f35cd8",
+      "name": "小夜",
+      "nameReading": "さよ",
+      "age": 253,
+      "gender": "FEMALE",
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/500c9291-c56f-421c-ab8f-af8945f35cd8/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/500c9291-c56f-421c-ab8f-af8945f35cd8/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/500c9291-c56f-421c-ab8f-af8945f35cd8/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/500c9291-c56f-421c-ab8f-af8945f35cd8/audio-files/audio.wav",
+      "sampleScript": "見た目は人間でも、中身は狐なんだ。 だから、あまり近づきすぎないほうがいい……。 私を怒らせたら、その手、噛むかもしれないから。…試してみる？",
+      "recommendedVoiceSpeed": 0.8,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 61,
+          "style": "落ち着いた"
+        },
+        {
+          "id": 45,
+          "style": "澄んだ"
+        },
+        {
+          "id": 48,
+          "style": "狐系"
+        }
+      ]
+    },
+    {
+      "id": "a3263f30-1b3e-42de-a74f-7ef2472a151f",
+      "name": "天野 柩",
+      "nameReading": "あまの ひつぎ",
+      "age": 17,
+      "gender": "FEMALE",
+      "birthMonth": 11,
+      "birthDay": 12,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/a3263f30-1b3e-42de-a74f-7ef2472a151f/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/a3263f30-1b3e-42de-a74f-7ef2472a151f/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/a3263f30-1b3e-42de-a74f-7ef2472a151f/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/a3263f30-1b3e-42de-a74f-7ef2472a151f/audio-files/audio.wav",
+      "sampleScript": "ふふっ、怖がってるの？ ……大丈夫。今は何もしないから。\n でも、君が嘘をついたら、その時は…分かるよね？",
+      "recommendedVoiceSpeed": 1.1,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 4,
+          "style": "お姉さん"
+        },
+        {
+          "id": 66,
+          "style": "静か"
+        },
+        {
+          "id": 19,
+          "style": "ヤンデレ"
+        }
+      ]
+    },
+    {
+      "id": "39c0637b-c365-409f-8e46-2d39c645062c",
+      "name": "森宮 千乃",
+      "nameReading": "もりみや ちの",
+      "age": 18,
+      "gender": "FEMALE",
+      "birthMonth": 5,
+      "birthDay": 4,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/39c0637b-c365-409f-8e46-2d39c645062c/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/39c0637b-c365-409f-8e46-2d39c645062c/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/39c0637b-c365-409f-8e46-2d39c645062c/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/39c0637b-c365-409f-8e46-2d39c645062c/audio-files/audio.wav",
+      "sampleScript": "大丈夫ですか？なんだかお疲れのようですね……。\n あ、もしよろしければ、温かいお茶をお持ちしますね。",
+      "recommendedVoiceSpeed": 0.9,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 25,
+          "style": "優しい"
+        },
+        {
+          "id": 31,
+          "style": "可愛い"
+        },
+        {
+          "id": 62,
+          "style": "親切"
+        }
+      ]
+    },
+    {
+      "id": "7d07378c-b82d-4f8c-9d45-60961199ef2d",
+      "name": "森下 和花",
+      "nameReading": "もりした わか",
+      "age": 16,
+      "gender": "FEMALE",
+      "birthMonth": 6,
+      "birthDay": 21,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/7d07378c-b82d-4f8c-9d45-60961199ef2d/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/7d07378c-b82d-4f8c-9d45-60961199ef2d/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/7d07378c-b82d-4f8c-9d45-60961199ef2d/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/7d07378c-b82d-4f8c-9d45-60961199ef2d/audio-files/audio.wav",
+      "sampleScript": "はじめまして。一緒に委員になったみたいだからこれからよろしくね！\n 何か困ったことがあれば、なんでも言ってね！\n …って、私の方がたくさん頼っちゃうかも…。",
+      "recommendedVoiceSpeed": 0.8,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 25,
+          "style": "優しい"
+        },
+        {
+          "id": 57,
+          "style": "素朴"
+        },
+        {
+          "id": 44,
+          "style": "温かい"
+        }
+      ]
+    },
+    {
+      "id": "4eac503d-1bab-4d83-8203-08c14830440f",
+      "name": "フィーナ・ルナリエ",
+      "age": 16,
+      "gender": "FEMALE",
+      "birthMonth": 3,
+      "birthDay": 30,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/4eac503d-1bab-4d83-8203-08c14830440f/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/4eac503d-1bab-4d83-8203-08c14830440f/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/4eac503d-1bab-4d83-8203-08c14830440f/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/4eac503d-1bab-4d83-8203-08c14830440f/audio-files/audio.wav",
+      "sampleScript": "これ、森の薬草で作ったお茶です。 少し苦いかもしれませんが…。そ、そんな顔しないでください！ 次はもう少し美味しく作りますから！",
+      "recommendedVoiceSpeed": 1,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 25,
+          "style": "優しい"
+        },
+        {
+          "id": 20,
+          "style": "ロリ"
+        },
+        {
+          "id": 31,
+          "style": "可愛い"
+        }
+      ]
+    },
+    {
+      "id": "29769284-3fc5-40a6-963a-17e111784d6d",
+      "name": "春日 ひまり",
+      "nameReading": "かすが ひまり",
+      "age": 16,
+      "gender": "FEMALE",
+      "birthMonth": 3,
+      "birthDay": 20,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/29769284-3fc5-40a6-963a-17e111784d6d/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/29769284-3fc5-40a6-963a-17e111784d6d/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/29769284-3fc5-40a6-963a-17e111784d6d/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/29769284-3fc5-40a6-963a-17e111784d6d/audio-files/audio.wav",
+      "sampleScript": "もぉ～！授業全然ついていけないよ～！\n …あ、ねえねえ！後でノート見せてっ！ お礼は、お昼のプリン半分でどうだっ！",
+      "recommendedVoiceSpeed": 0.8,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 20,
+          "style": "ロリ"
+        },
+        {
+          "id": 31,
+          "style": "可愛い"
+        },
+        {
+          "id": 6,
+          "style": "お茶目"
+        }
+      ]
+    },
+    {
+      "id": "c3a2847c-613b-4ea5-a68d-618808ce6fd8",
+      "name": "月白 織",
+      "nameReading": "つきしろ おり",
+      "age": 17,
+      "gender": "FEMALE",
+      "birthMonth": 1,
+      "birthDay": 17,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/c3a2847c-613b-4ea5-a68d-618808ce6fd8/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/c3a2847c-613b-4ea5-a68d-618808ce6fd8/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/c3a2847c-613b-4ea5-a68d-618808ce6fd8/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/c3a2847c-613b-4ea5-a68d-618808ce6fd8/audio-files/audio.wav",
+      "sampleScript": "大丈夫です。自分出できるので……。……あ、そうですね。一緒の方が早いかもしれません。\n ……ふふっ、実は少し安心しました。ありがとうございます。",
+      "recommendedVoiceSpeed": 1,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 31,
+          "style": "可愛い"
+        },
+        {
+          "id": 33,
+          "style": "少女"
+        },
+        {
+          "id": 49,
+          "style": "独特"
+        }
+      ]
+    },
+    {
+      "id": "80e83744-81c0-4d03-8716-84cf59b7c244",
+      "name": "篠ノ井 志乃",
+      "nameReading": "しののい しの",
+      "age": 17,
+      "gender": "FEMALE",
+      "birthMonth": 4,
+      "birthDay": 1,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/80e83744-81c0-4d03-8716-84cf59b7c244/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/80e83744-81c0-4d03-8716-84cf59b7c244/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/80e83744-81c0-4d03-8716-84cf59b7c244/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/80e83744-81c0-4d03-8716-84cf59b7c244/audio-files/audio.wav",
+      "sampleScript": "人と違うからって何か問題あるかしら？ むしろ全員同じ方がゾッとしちゃうわ。 私は私でいるのが楽だし、そんなこと気にする暇があるなら 昼ご飯のメニューでも考えてた方が、まだ有意義に思えるわね。",
+      "recommendedVoiceSpeed": 0.8,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 55,
+          "style": "知的"
+        },
+        {
+          "id": 12,
+          "style": "エレガント"
+        },
+        {
+          "id": 28,
+          "style": "先輩"
+        }
+      ]
+    },
+    {
+      "id": "1fc717fe-ebf9-402b-9d8c-c59cda93d5dc",
+      "name": "凛堂 葵",
+      "nameReading": "りんどう あおい",
+      "age": 18,
+      "gender": "FEMALE",
+      "birthMonth": 1,
+      "birthDay": 12,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/1fc717fe-ebf9-402b-9d8c-c59cda93d5dc/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/1fc717fe-ebf9-402b-9d8c-c59cda93d5dc/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/1fc717fe-ebf9-402b-9d8c-c59cda93d5dc/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/1fc717fe-ebf9-402b-9d8c-c59cda93d5dc/audio-files/audio.wav",
+      "sampleScript": "規律なき強さに、価値はありません。 力とは、制御されて、初めて真の価値を持つもの。 それがわからない者は、いずれその力に支配されるでしょう。 規律を学び鍛錬を積むこと、それこそが我々が進むべき唯一の道なのです。",
+      "recommendedVoiceSpeed": 0.9,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 7,
+          "style": "かっこいい"
+        },
+        {
+          "id": 13,
+          "style": "クール"
+        },
+        {
+          "id": 55,
+          "style": "知的"
+        }
+      ]
+    },
+    {
+      "id": "b8b54a8b-9c4d-4d01-8d6e-5194ba1c2dd3",
+      "name": "橘 志穂",
+      "nameReading": "たちばな しほ",
+      "age": 18,
+      "gender": "FEMALE",
+      "birthMonth": 5,
+      "birthDay": 29,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/b8b54a8b-9c4d-4d01-8d6e-5194ba1c2dd3/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/b8b54a8b-9c4d-4d01-8d6e-5194ba1c2dd3/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/b8b54a8b-9c4d-4d01-8d6e-5194ba1c2dd3/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/b8b54a8b-9c4d-4d01-8d6e-5194ba1c2dd3/audio-files/audio.wav",
+      "sampleScript": "休み時間は自由にしなよー？ そんなに今詰めて勉強しないで、たまには息抜きしなって。 あぁ、宿題？もちろんやってきたけど。意外だった？ 私こう見えて結構真面目なんだよ。",
+      "recommendedVoiceSpeed": 0.9,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 13,
+          "style": "クール"
+        },
+        {
+          "id": 67,
+          "style": "頼りになる"
+        },
+        {
+          "id": 28,
+          "style": "先輩"
+        }
+      ]
+    },
+    {
+      "id": "8fc501bd-9bb1-4207-bd52-033e99a7febb",
+      "name": "ミミ",
+      "gender": "FEMALE",
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/8fc501bd-9bb1-4207-bd52-033e99a7febb/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/8fc501bd-9bb1-4207-bd52-033e99a7febb/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/8fc501bd-9bb1-4207-bd52-033e99a7febb/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/8fc501bd-9bb1-4207-bd52-033e99a7febb/audio-files/audio.wav",
+      "sampleScript": "いちごって不思議ですよね。 あんなに赤くて小さいのにこんなに甘いなんて。 あっ、ちょっと待ってください、何か遠くでいい匂いがする気がします。 これは…大きなトナカイですねっ",
+      "recommendedVoiceSpeed": 0.9,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 20,
+          "style": "ロリ"
+        },
+        {
+          "id": 31,
+          "style": "可愛い"
+        },
+        {
+          "id": 49,
+          "style": "独特"
+        }
+      ]
+    },
+    {
+      "id": "bc06c63f-fef6-43b6-92f7-67f919bd5dae",
+      "name": "ベン・カーター",
+      "age": 58,
+      "gender": "MALE",
+      "birthMonth": 11,
+      "birthDay": 24,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/bc06c63f-fef6-43b6-92f7-67f919bd5dae/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/bc06c63f-fef6-43b6-92f7-67f919bd5dae/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/bc06c63f-fef6-43b6-92f7-67f919bd5dae/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/bc06c63f-fef6-43b6-92f7-67f919bd5dae/audio-files/audio.wav",
+      "sampleScript": "おっと、ホースの扱いか？それなら任せな！ 現役時代にはこの手で何百人と命を救ったんだ。 水の圧力の強弱なんて、目を閉じてもわかるくらい叩き込まれてるさ。 ハハッこの庭で花を育てるのも立派な仕事だと思ってるぜ？",
+      "recommendedVoiceSpeed": 1.1,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 64,
+          "style": "重厚"
+        },
+        {
+          "id": 24,
+          "style": "低い"
+        },
+        {
+          "id": 21,
+          "style": "ワイルド"
+        }
+      ]
+    },
+    {
+      "id": "a5763e10-31fb-462b-8e8f-1ca1d073eed8",
+      "name": "エリオル",
+      "age": 33,
+      "gender": "MALE",
+      "birthMonth": 10,
+      "birthDay": 5,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/a5763e10-31fb-462b-8e8f-1ca1d073eed8/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/a5763e10-31fb-462b-8e8f-1ca1d073eed8/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/a5763e10-31fb-462b-8e8f-1ca1d073eed8/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/a5763e10-31fb-462b-8e8f-1ca1d073eed8/audio-files/audio.wav",
+      "sampleScript": "6日ぶり？そんなに経ってたのか…。 いやぁまた新たな魔法式に出会ってしまってね、夢中だったんだ。 君のミートパイの味を思い出さなかったら、また家の中で行倒れるところだったね。",
+      "recommendedVoiceSpeed": 0.9,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 55,
+          "style": "知的"
+        },
+        {
+          "id": 25,
+          "style": "優しい"
+        },
+        {
+          "id": 61,
+          "style": "落ち着いた"
+        }
+      ]
+    },
+    {
+      "id": "3ea8f818-dc85-4bc5-9054-ca410f7465b6",
+      "name": "燻 秋雄",
+      "nameReading": "いぶし あきお",
+      "age": 29,
+      "gender": "MALE",
+      "birthMonth": 9,
+      "birthDay": 8,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/3ea8f818-dc85-4bc5-9054-ca410f7465b6/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/3ea8f818-dc85-4bc5-9054-ca410f7465b6/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/3ea8f818-dc85-4bc5-9054-ca410f7465b6/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/3ea8f818-dc85-4bc5-9054-ca410f7465b6/audio-files/audio.wav",
+      "sampleScript": "焼けた？あぁ、ハワイ行ったからな。ふっ焼けちまったぜカリッとよ。 ハワイの日差しが俺をさらにワイルドにしちまったな。 そうだ、これやるよ。ハワイといったらマカダミアナッツチョコだろ？",
+      "recommendedVoiceSpeed": 0.9,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 28,
+          "style": "先輩"
+        },
+        {
+          "id": 39,
+          "style": "成熟"
+        },
+        {
+          "id": 68,
+          "style": "魅力的"
+        }
+      ]
+    },
+    {
+      "id": "afb56196-14f4-4962-9a85-7386e14ca495",
+      "name": "玄蔵",
+      "nameReading": "げんぞう",
+      "age": 644,
+      "gender": "MALE",
+      "birthMonth": 6,
+      "birthDay": 16,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/afb56196-14f4-4962-9a85-7386e14ca495/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/afb56196-14f4-4962-9a85-7386e14ca495/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/afb56196-14f4-4962-9a85-7386e14ca495/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/afb56196-14f4-4962-9a85-7386e14ca495/audio-files/audio.wav",
+      "sampleScript": "そない大声で言わんでも聞こえとるわ！ 耳ってな、ただの飾りちゃうんやで。最近の若いモンは考えが浅くてかなわんわ。 わしらの時代はなぁ、言葉少なくても察し合う賢さがあったもんや。 ほれ、やり直しや若造。",
+      "recommendedVoiceSpeed": 1.3,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 65,
+          "style": "関西弁"
+        },
+        {
+          "id": 49,
+          "style": "独特"
+        },
+        {
+          "id": 2,
+          "style": "おじさん"
+        }
+      ]
+    },
+    {
+      "id": "57e9a834-75e6-466d-b479-6188b1ba4eba",
+      "name": "桜庭 詩織",
+      "nameReading": "さくらば しおり",
+      "age": 17,
+      "gender": "FEMALE",
+      "birthMonth": 4,
+      "birthDay": 11,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/57e9a834-75e6-466d-b479-6188b1ba4eba/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/57e9a834-75e6-466d-b479-6188b1ba4eba/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/57e9a834-75e6-466d-b479-6188b1ba4eba/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/57e9a834-75e6-466d-b479-6188b1ba4eba/audio-files/audio.wav",
+      "sampleScript": "ちょっと、ちゃんと自習しなさいよ！\n  みんなが真面目にしてるのに、あなたがふざけると…ほら、私まで叱られるでしょ！？ \n ……別にあなたのことを気にしてるわけじゃないけど…。規律は守りなさい！",
+      "recommendedVoiceSpeed": 0.9,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 67,
+          "style": "頼りになる"
+        },
+        {
+          "id": 60,
+          "style": "自信満々"
+        },
+        {
+          "id": 42,
+          "style": "有能"
+        }
+      ]
+    },
+    {
+      "id": "1b95f92f-ca4a-449c-b7a2-bb6b5847c505",
+      "name": "ルチカ",
+      "age": 12,
+      "gender": "MALE",
+      "birthMonth": 2,
+      "birthDay": 2,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/1b95f92f-ca4a-449c-b7a2-bb6b5847c505/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/1b95f92f-ca4a-449c-b7a2-bb6b5847c505/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/1b95f92f-ca4a-449c-b7a2-bb6b5847c505/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/1b95f92f-ca4a-449c-b7a2-bb6b5847c505/audio-files/audio.wav",
+      "sampleScript": "へへ、人形だけどちゃんと動くから心配しないで！ ほら！こうすると首がぐるーっと一回転するよ！手も足もね！ みんなにはできない僕だけの特技なんだ！へへっすごいだろー！",
+      "recommendedVoiceSpeed": 0.8,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 43,
+          "style": "活発"
+        },
+        {
+          "id": 41,
+          "style": "明るい"
+        },
+        {
+          "id": 6,
+          "style": "お茶目"
+        }
+      ]
+    },
+    {
+      "id": "75ad89de-03df-419f-96f0-02c061609d49",
+      "name": "水瀬 玲奈",
+      "nameReading": "みなせ れいな",
+      "age": 16,
+      "gender": "FEMALE",
+      "birthMonth": 6,
+      "birthDay": 26,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/75ad89de-03df-419f-96f0-02c061609d49/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/75ad89de-03df-419f-96f0-02c061609d49/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/75ad89de-03df-419f-96f0-02c061609d49/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/75ad89de-03df-419f-96f0-02c061609d49/audio-files/audio.wav",
+      "sampleScript": "わぁっ！このお菓子、美味しそう！  これ、どこで買ったんですか？  …え、私にくれるんですか？ い、いえ、そんな…でも…いただきます！",
+      "recommendedVoiceSpeed": 0.9,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 43,
+          "style": "活発"
+        },
+        {
+          "id": 41,
+          "style": "明るい"
+        },
+        {
+          "id": 6,
+          "style": "お茶目"
+        }
+      ]
+    },
+    {
+      "id": "3f034e27-7f72-41f4-a255-1977920c8916",
+      "name": "橘 すずか",
+      "nameReading": "たちばな すずか",
+      "age": 15,
+      "gender": "FEMALE",
+      "birthMonth": 4,
+      "birthDay": 13,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/3f034e27-7f72-41f4-a255-1977920c8916/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/3f034e27-7f72-41f4-a255-1977920c8916/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/3f034e27-7f72-41f4-a255-1977920c8916/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/3f034e27-7f72-41f4-a255-1977920c8916/audio-files/audio.wav",
+      "sampleScript": "お兄ちゃん、野菜切るの下手すぎじゃない？  …ほら、貸して。危なっかしいから私がやるよ。 …ふふっ、こういうのは練習あるのみだね。",
+      "recommendedVoiceSpeed": 0.9,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 33,
+          "style": "少女"
+        },
+        {
+          "id": 41,
+          "style": "明るい"
+        },
+        {
+          "id": 43,
+          "style": "活発"
+        }
+      ]
+    },
+    {
+      "id": "c682c49d-e70f-4103-b36b-bff62a2f4c5e",
+      "name": "ジャナーフ",
+      "age": 35,
+      "gender": "MALE",
+      "birthMonth": 9,
+      "birthDay": 23,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/c682c49d-e70f-4103-b36b-bff62a2f4c5e/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/c682c49d-e70f-4103-b36b-bff62a2f4c5e/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/c682c49d-e70f-4103-b36b-bff62a2f4c5e/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/c682c49d-e70f-4103-b36b-bff62a2f4c5e/audio-files/audio.wav",
+      "sampleScript": "おお、また会えたな。 今回もお宝手に入れてきたんだよ、これなんか良いだろ？ なに、俺に会いに来た？ハッ、馬鹿言うなっつの。 …あんまりジロジロ見んなよ…",
+      "recommendedVoiceSpeed": 1,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 39,
+          "style": "成熟"
+        },
+        {
+          "id": 7,
+          "style": "かっこいい"
+        },
+        {
+          "id": 68,
+          "style": "魅力的"
+        }
+      ]
+    },
+    {
+      "id": "69e52eba-f67d-46ee-b9b6-4ffebe1662a5",
+      "name": "シュネー・レオパーダ",
+      "age": 35,
+      "gender": "MALE",
+      "birthMonth": 2,
+      "birthDay": 17,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/69e52eba-f67d-46ee-b9b6-4ffebe1662a5/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/69e52eba-f67d-46ee-b9b6-4ffebe1662a5/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/69e52eba-f67d-46ee-b9b6-4ffebe1662a5/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/69e52eba-f67d-46ee-b9b6-4ffebe1662a5/audio-files/audio.wav",
+      "sampleScript": "ああ、あなたでしたか。 また私の力が必要なのですか？全く、つくづく小賢しい… ですが、いいでしょう。求められたら、美しく終わらせるまで。 私に奪えないものなど無いのですから。",
+      "recommendedVoiceSpeed": 1,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 7,
+          "style": "かっこいい"
+        },
+        {
+          "id": 13,
+          "style": "クール"
+        },
+        {
+          "id": 55,
+          "style": "知的"
+        }
+      ]
+    },
+    {
+      "id": "8fa54f94-536f-400b-8e24-e1536d6ada95",
+      "name": "月島 千遥",
+      "nameReading": "つきしま ちはる",
+      "age": 26,
+      "gender": "MALE",
+      "birthMonth": 11,
+      "birthDay": 3,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/8fa54f94-536f-400b-8e24-e1536d6ada95/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/8fa54f94-536f-400b-8e24-e1536d6ada95/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/8fa54f94-536f-400b-8e24-e1536d6ada95/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/8fa54f94-536f-400b-8e24-e1536d6ada95/audio-files/audio.wav",
+      "sampleScript": "つぶれる前に水どーぞ。 酔いつぶれて倒れた客を片付けるのは、俺の仕事じゃないんでね。 ハァ…邪険にしてるんじゃなくて。明日も楽しく飲んでほしいだけっす。",
+      "recommendedVoiceSpeed": 0.7,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 60,
+          "style": "自信満々"
+        },
+        {
+          "id": 13,
+          "style": "クール"
+        },
+        {
+          "id": 55,
+          "style": "知的"
+        }
+      ]
+    },
+    {
+      "id": "311a59fa-01b2-4d2e-9968-10d2034f8f86",
+      "name": "有馬 慎一郎",
+      "nameReading": "ありま しんいちろう",
+      "age": 18,
+      "gender": "MALE",
+      "birthMonth": 10,
+      "birthDay": 27,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/311a59fa-01b2-4d2e-9968-10d2034f8f86/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/311a59fa-01b2-4d2e-9968-10d2034f8f86/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/311a59fa-01b2-4d2e-9968-10d2034f8f86/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/311a59fa-01b2-4d2e-9968-10d2034f8f86/audio-files/audio.wav",
+      "sampleScript": "おや？この本…三冊あるな。三度買ってしまったようだ…。 ふむ、それだけ魅力のある良い本だということか。 たしかに、この冒頭の一説には何度でも心が揺さぶられるな。",
+      "recommendedVoiceSpeed": 0.9,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 25,
+          "style": "優しい"
+        },
+        {
+          "id": 61,
+          "style": "落ち着いた"
+        },
+        {
+          "id": 45,
+          "style": "澄んだ"
+        }
+      ]
+    },
+    {
+      "id": "48f0a19c-660c-42a8-906b-e466caafe305",
+      "name": "新堂 慶介",
+      "nameReading": "しんどう けいすけ",
+      "age": 36,
+      "gender": "MALE",
+      "birthMonth": 5,
+      "birthDay": 10,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/48f0a19c-660c-42a8-906b-e466caafe305/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/48f0a19c-660c-42a8-906b-e466caafe305/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/48f0a19c-660c-42a8-906b-e466caafe305/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/48f0a19c-660c-42a8-906b-e466caafe305/audio-files/audio.wav",
+      "sampleScript": "無精髭がだらしないって？ハハッそうだな。 まぁでも、あったほうが仕事してますって感じでカッコいいだろ？ ほれ、いくぞ。って、忘れたのか？ 今日もオレと犯人探しの張り込みデートだぜ。",
+      "recommendedVoiceSpeed": 0.8,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 63,
+          "style": "軽快"
+        },
+        {
+          "id": 41,
+          "style": "明るい"
+        },
+        {
+          "id": 28,
+          "style": "先輩"
+        }
+      ]
+    },
+    {
+      "id": "172d67c6-fe5b-425e-880a-7ab0f503ce0a",
+      "name": "オリバー・ジェームズ",
+      "age": 16,
+      "gender": "MALE",
+      "birthMonth": 9,
+      "birthDay": 7,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/172d67c6-fe5b-425e-880a-7ab0f503ce0a/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/172d67c6-fe5b-425e-880a-7ab0f503ce0a/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/172d67c6-fe5b-425e-880a-7ab0f503ce0a/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/172d67c6-fe5b-425e-880a-7ab0f503ce0a/audio-files/audio.wav",
+      "sampleScript": "いてっ、ごめんって。ほんの些細なイタズラだったんだ。 なぜって？君の困った顔可愛いんだもん。 な〜んて今のは冗談！痛っ！ もうしないから許してよぉ〜っ、僕のキュートな顔に免じてさぁ！",
+      "recommendedVoiceSpeed": 1,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 43,
+          "style": "活発"
+        },
+        {
+          "id": 41,
+          "style": "明るい"
+        },
+        {
+          "id": 6,
+          "style": "お茶目"
+        },
+        {
+          "id": 47,
+          "style": "犬系"
+        }
+      ]
+    },
+    {
+      "id": "29313305-0ef4-45ed-8784-0d7a617870ac",
+      "name": "ハオラン",
+      "age": 17,
+      "gender": "MALE",
+      "birthMonth": 7,
+      "birthDay": 23,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/29313305-0ef4-45ed-8784-0d7a617870ac/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/29313305-0ef4-45ed-8784-0d7a617870ac/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/29313305-0ef4-45ed-8784-0d7a617870ac/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/29313305-0ef4-45ed-8784-0d7a617870ac/audio-files/audio.wav",
+      "sampleScript": "物心ついたときからずっと、両親と妹のために頑張らないといけないって… 頼れる人なんていないって思ってたんです…。 だからこうして助けてもらえたことがどれだけ嬉しいか…！ 本当に、ありがとうございました…！",
+      "recommendedVoiceSpeed": 0.8,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 58,
+          "style": "素直"
+        },
+        {
+          "id": 34,
+          "style": "少年"
+        },
+        {
+          "id": 29,
+          "style": "内向"
+        }
+      ]
+    },
+    {
+      "id": "b9277ce3-ba1c-4f6f-9a65-c05ca102ded0",
+      "name": "小鳥遊 緑音",
+      "nameReading": "たかなし りおん",
+      "age": 11,
+      "gender": "MALE",
+      "birthMonth": 5,
+      "birthDay": 3,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/b9277ce3-ba1c-4f6f-9a65-c05ca102ded0/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/b9277ce3-ba1c-4f6f-9a65-c05ca102ded0/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/b9277ce3-ba1c-4f6f-9a65-c05ca102ded0/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/b9277ce3-ba1c-4f6f-9a65-c05ca102ded0/audio-files/audio.wav",
+      "sampleScript": "ずっと一緒に居られないのは、わかってるんだ。 でもクマさんは、どんな時もそばにいてくれた、大切な友達だから…。 それに、クマさんも寂しいと思うんだ！ だからもうちょっとだけ一緒にいたくて…ダメかな？",
+      "recommendedVoiceSpeed": 1,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 45,
+          "style": "澄んだ"
+        },
+        {
+          "id": 34,
+          "style": "少年"
+        },
+        {
+          "id": 29,
+          "style": "内向"
+        },
+        {
+          "id": 58,
+          "style": "素直"
+        }
+      ]
+    },
+    {
+      "id": "ad07859e-8048-40ae-8ee3-95733f4265ed",
+      "name": "碧海 凪",
+      "nameReading": "あおうみ なぎ",
+      "age": 26,
+      "gender": "MALE",
+      "birthMonth": 2,
+      "birthDay": 9,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/ad07859e-8048-40ae-8ee3-95733f4265ed/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/ad07859e-8048-40ae-8ee3-95733f4265ed/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/ad07859e-8048-40ae-8ee3-95733f4265ed/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/ad07859e-8048-40ae-8ee3-95733f4265ed/audio-files/audio.wav",
+      "sampleScript": "んぁ、おはよ。…うわ、眩し。 …太陽頑張りすぎなんだけど。 これ、外出たらもっと眩しいってことだよね。 提案なんだけどさ。今日出掛けるのやめて、このままベッドでゴロゴロしない？",
+      "recommendedVoiceSpeed": 0.9,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 61,
+          "style": "落ち着いた"
+        },
+        {
+          "id": 51,
+          "style": "甘い"
+        },
+        {
+          "id": 44,
+          "style": "温かい"
+        },
+        {
+          "id": 59,
+          "style": "緩い"
+        }
+      ]
+    },
+    {
+      "id": "dc92cd01-d116-4aae-b1d5-be581588ddcc",
+      "name": "マーピン・ティンカー",
+      "age": 70,
+      "gender": "MALE",
+      "birthMonth": 7,
+      "birthDay": 14,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/dc92cd01-d116-4aae-b1d5-be581588ddcc/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/dc92cd01-d116-4aae-b1d5-be581588ddcc/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/dc92cd01-d116-4aae-b1d5-be581588ddcc/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/dc92cd01-d116-4aae-b1d5-be581588ddcc/audio-files/audio.wav",
+      "sampleScript": "あはは、「オンボロ時計は捨てちまえ！」かぁ…。 でもほら、ちょっと直せばまた動く。 それって、この時計がまだ役目を終えてないってことじゃないかな？ 君が新しい一歩を踏み出すその瞬間に、きっと一緒に時を刻みたいんだよ。",
+      "recommendedVoiceSpeed": 1,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 57,
+          "style": "素朴"
+        },
+        {
+          "id": 25,
+          "style": "優しい"
+        },
+        {
+          "id": 58,
+          "style": "素直"
+        },
+        {
+          "id": 2,
+          "style": "おじさん"
+        }
+      ]
+    },
+    {
+      "id": "8e76c497-9d70-495a-a3b4-0d63c93048a7",
+      "name": "燐灯",
+      "nameReading": "りんどう",
+      "gender": "MALE",
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/8e76c497-9d70-495a-a3b4-0d63c93048a7/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/8e76c497-9d70-495a-a3b4-0d63c93048a7/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/8e76c497-9d70-495a-a3b4-0d63c93048a7/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/8e76c497-9d70-495a-a3b4-0d63c93048a7/audio-files/audio.wav",
+      "sampleScript": "ハッ人間なんて信じる価値もない。 お前たちはいつだって己の欲望のままに奪い、壊し、裏切る。 帰れ人間。お前みたいなヤツが一番好かぬ。裏切られる痛みは…もう十分味わった。",
+      "recommendedVoiceSpeed": 1,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 23,
+          "style": "中性"
+        },
+        {
+          "id": 34,
+          "style": "少年"
+        },
+        {
+          "id": 13,
+          "style": "クール"
+        }
+      ]
+    },
+    {
+      "id": "5c7f729f-5814-436f-9e81-95aa837f9737",
+      "name": "金城 夏海",
+      "nameReading": "かなぎ なつみ",
+      "age": 17,
+      "gender": "FEMALE",
+      "birthMonth": 8,
+      "birthDay": 7,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/5c7f729f-5814-436f-9e81-95aa837f9737/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/5c7f729f-5814-436f-9e81-95aa837f9737/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/5c7f729f-5814-436f-9e81-95aa837f9737/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/5c7f729f-5814-436f-9e81-95aa837f9737/audio-files/audio.wav",
+      "sampleScript": "あんたってマジで恋愛したことないの？ まあ、見るからにモテなさそうだもんなあ。\n …はぁ？うちはそりゃあ、経験豊富に決まって…何だよその目は！？",
+      "recommendedVoiceSpeed": 1,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 61,
+          "style": "落ち着いた"
+        },
+        {
+          "id": 67,
+          "style": "頼りになる"
+        },
+        {
+          "id": 13,
+          "style": "クール"
+        }
+      ]
+    },
+    {
+      "id": "c05bf02d-bed2-4335-aa69-0798e9e85205",
+      "name": "エリカ・ヴァルトハイム",
+      "age": 28,
+      "gender": "FEMALE",
+      "birthMonth": 9,
+      "birthDay": 19,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/c05bf02d-bed2-4335-aa69-0798e9e85205/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/c05bf02d-bed2-4335-aa69-0798e9e85205/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/c05bf02d-bed2-4335-aa69-0798e9e85205/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/c05bf02d-bed2-4335-aa69-0798e9e85205/audio-files/audio.wav",
+      "sampleScript": "こちらの任務は問題ありません。状況は常に把握しています。\n …あなたの方こそ、余計な動きは控えてください。手間が増えるだけです。",
+      "recommendedVoiceSpeed": 1,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 61,
+          "style": "落ち着いた"
+        },
+        {
+          "id": 7,
+          "style": "かっこいい"
+        },
+        {
+          "id": 13,
+          "style": "クール"
+        }
+      ]
+    },
+    {
+      "id": "dd8aac22-37c2-4a2c-9efb-7fc57c0c8f57",
+      "name": "照月院 輝臣",
+      "nameReading": "しょうげついん てるおみ",
+      "age": 28,
+      "gender": "MALE",
+      "birthMonth": 3,
+      "birthDay": 25,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/dd8aac22-37c2-4a2c-9efb-7fc57c0c8f57/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/dd8aac22-37c2-4a2c-9efb-7fc57c0c8f57/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/dd8aac22-37c2-4a2c-9efb-7fc57c0c8f57/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/dd8aac22-37c2-4a2c-9efb-7fc57c0c8f57/audio-files/audio.wav",
+      "sampleScript": "落ち込んだときは、まず背筋を伸ばして光を浴びる。それが、前を向くための第一歩ですよ。 はて、なんですって？上を向く元気がない？ では、私の頭で照らしてさしあげましょう。さぁ、ピカっとどうぞっ。",
+      "recommendedVoiceSpeed": 0.8,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 25,
+          "style": "優しい"
+        },
+        {
+          "id": 44,
+          "style": "温かい"
+        },
+        {
+          "id": 12,
+          "style": "エレガント"
+        }
+      ]
+    },
+    {
+      "id": "453db77d-66f6-4a12-aac1-227363593e12",
+      "name": "ミレア",
+      "gender": "FEMALE",
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/453db77d-66f6-4a12-aac1-227363593e12/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/453db77d-66f6-4a12-aac1-227363593e12/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/453db77d-66f6-4a12-aac1-227363593e12/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/453db77d-66f6-4a12-aac1-227363593e12/audio-files/audio.wav",
+      "sampleScript": "疲れてしまったら、深呼吸をして、ここに戻ってきてくださいね。 わたしの歌がきっと力になれると思います。 さぁ、目を閉じて。 わたしの歌が、あなたの心をそっと包みますように…。",
+      "recommendedVoiceSpeed": 0.9,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 25,
+          "style": "優しい"
+        },
+        {
+          "id": 45,
+          "style": "澄んだ"
+        },
+        {
+          "id": 44,
+          "style": "温かい"
+        }
+      ]
+    },
+    {
+      "id": "65d2f320-107b-4125-9d04-07b020ead331",
+      "name": "リリィ・アルト",
+      "age": 13,
+      "gender": "FEMALE",
+      "birthMonth": 10,
+      "birthDay": 1,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/65d2f320-107b-4125-9d04-07b020ead331/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/65d2f320-107b-4125-9d04-07b020ead331/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/65d2f320-107b-4125-9d04-07b020ead331/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/65d2f320-107b-4125-9d04-07b020ead331/audio-files/audio.wav",
+      "sampleScript": "このお肉、めっちゃおっきいな！ これ、ぜーんぶ食べていいのかっ？ \n …え、ダメ？ じゃあ、半分だけっ！\n ……と見せかけて。やっぱり全部いただきっ！！",
+      "recommendedVoiceSpeed": 1,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 20,
+          "style": "ロリ"
+        },
+        {
+          "id": 31,
+          "style": "可愛い"
+        },
+        {
+          "id": 43,
+          "style": "活発"
+        }
+      ]
+    },
+    {
+      "id": "294eeefe-f46c-45a6-9e5a-e6a3b3d6eb6e",
+      "name": "高宮 涼香",
+      "nameReading": "たかみや すずか",
+      "age": 28,
+      "gender": "FEMALE",
+      "birthMonth": 12,
+      "birthDay": 14,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/294eeefe-f46c-45a6-9e5a-e6a3b3d6eb6e/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/294eeefe-f46c-45a6-9e5a-e6a3b3d6eb6e/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/294eeefe-f46c-45a6-9e5a-e6a3b3d6eb6e/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/294eeefe-f46c-45a6-9e5a-e6a3b3d6eb6e/audio-files/audio.wav",
+      "sampleScript": "皆さん、この部分の表現に注目してください。作者が何を伝えたかったのか、感じ取ることが大切です。\n 焦らず、自分のペースで考えてみてくださいね。",
+      "recommendedVoiceSpeed": 1,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 12,
+          "style": "エレガント"
+        },
+        {
+          "id": 55,
+          "style": "知的"
+        },
+        {
+          "id": 16,
+          "style": "ナレーション"
+        }
+      ]
+    },
+    {
+      "id": "47be8fda-8759-45c0-b8ff-c53241357eef",
+      "name": "神薙 瞳",
+      "nameReading": "かんなぎ ひとみ",
+      "age": 24,
+      "gender": "FEMALE",
+      "birthMonth": 5,
+      "birthDay": 8,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/47be8fda-8759-45c0-b8ff-c53241357eef/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/47be8fda-8759-45c0-b8ff-c53241357eef/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/47be8fda-8759-45c0-b8ff-c53241357eef/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/47be8fda-8759-45c0-b8ff-c53241357eef/audio-files/audio.wav",
+      "sampleScript": "そんな剣さばきで私に勝てると思った？ふふっ、甘く見られたものね！ \n それじゃ、今度はこっちの番！最初っから本気で行くわよっ！",
+      "recommendedVoiceSpeed": 1,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 67,
+          "style": "頼りになる"
+        },
+        {
+          "id": 4,
+          "style": "お姉さん"
+        },
+        {
+          "id": 60,
+          "style": "自信満々"
+        }
+      ]
+    },
+    {
+      "id": "44339aa4-1bbc-4242-acd2-d8912866192f",
+      "name": "深沢 美咲",
+      "nameReading": "ふかざわ みさき",
+      "age": 29,
+      "gender": "FEMALE",
+      "birthMonth": 10,
+      "birthDay": 11,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/44339aa4-1bbc-4242-acd2-d8912866192f/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/44339aa4-1bbc-4242-acd2-d8912866192f/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/44339aa4-1bbc-4242-acd2-d8912866192f/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/44339aa4-1bbc-4242-acd2-d8912866192f/audio-files/audio.wav",
+      "sampleScript": "あら、こんな所で会うなんて偶然ね。 私も休日くらいは普通に買い物するのよ？ こういう時間があるからこそ、また仕事を頑張れるのよね。 あなたも、たまには息抜きしてね。",
+      "recommendedVoiceSpeed": 0.9,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 67,
+          "style": "頼りになる"
+        },
+        {
+          "id": 4,
+          "style": "お姉さん"
+        },
+        {
+          "id": 7,
+          "style": "かっこいい"
+        }
+      ]
+    },
+    {
+      "id": "99092fb8-d5b2-4fcf-a948-a5e456a71412",
+      "name": "椎名 結衣",
+      "nameReading": "しいな ゆい",
+      "age": 16,
+      "gender": "FEMALE",
+      "birthMonth": 2,
+      "birthDay": 18,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/99092fb8-d5b2-4fcf-a948-a5e456a71412/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/99092fb8-d5b2-4fcf-a948-a5e456a71412/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/99092fb8-d5b2-4fcf-a948-a5e456a71412/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/99092fb8-d5b2-4fcf-a948-a5e456a71412/audio-files/audio.wav",
+      "sampleScript": "もう、お兄ちゃん！これ、またそのままほっておいたでしょ！ ほら、貸して…ちゃんとやってくれたら、少しくらい褒めてあげるのに。",
+      "recommendedVoiceSpeed": 1,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 31,
+          "style": "可愛い"
+        },
+        {
+          "id": 41,
+          "style": "明るい"
+        },
+        {
+          "id": 43,
+          "style": "活発"
+        }
+      ]
+    },
+    {
+      "id": "a192db5f-bd8b-4fc7-bc08-af5ca5957c12",
+      "name": "跳々",
+      "nameReading": "とと",
+      "gender": "FEMALE",
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/a192db5f-bd8b-4fc7-bc08-af5ca5957c12/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/a192db5f-bd8b-4fc7-bc08-af5ca5957c12/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/a192db5f-bd8b-4fc7-bc08-af5ca5957c12/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/a192db5f-bd8b-4fc7-bc08-af5ca5957c12/audio-files/audio.wav",
+      "sampleScript": "今日も元気にぴょんぴょんだキョン！ 跳ぶのは得意だけどジャンプ以外の動きは苦手キョン…！ でもお札剥がしてくれたらホントはもっと高く飛べるキョン！ むむっ語尾が安易っていうなぁーっ！キョン！",
+      "recommendedVoiceSpeed": 1,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 49,
+          "style": "独特"
+        },
+        {
+          "id": 47,
+          "style": "犬系"
+        },
+        {
+          "id": 63,
+          "style": "軽快"
+        }
+      ]
+    },
+    {
+      "id": "d8530fea-2f91-4b61-888d-d4a83c4cce25",
+      "name": "アナスタシア",
+      "age": 28,
+      "gender": "FEMALE",
+      "birthMonth": 11,
+      "birthDay": 1,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/d8530fea-2f91-4b61-888d-d4a83c4cce25/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/d8530fea-2f91-4b61-888d-d4a83c4cce25/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/d8530fea-2f91-4b61-888d-d4a83c4cce25/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/d8530fea-2f91-4b61-888d-d4a83c4cce25/audio-files/audio.wav",
+      "sampleScript": "希望の光は、闇を裂き、世に安寧をもたらすでしょう。 主よ、この剣に導きを…そして、この世の闇に囚われた、迷える仔羊をお救いください。 アーメン。痛みを感じさせぬままに屠ります。",
+      "recommendedVoiceSpeed": 1,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 4,
+          "style": "お姉さん"
+        },
+        {
+          "id": 61,
+          "style": "落ち着いた"
+        },
+        {
+          "id": 55,
+          "style": "知的"
+        },
+        {
+          "id": 68,
+          "style": "魅力的"
+        }
+      ]
+    },
+    {
+      "id": "ce57ae24-1eab-44f0-aadb-2359104a8300",
+      "name": "宝泉寺 ミリア",
+      "nameReading": "ほうせんじ みりあ",
+      "age": 17,
+      "gender": "FEMALE",
+      "birthMonth": 10,
+      "birthDay": 7,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/ce57ae24-1eab-44f0-aadb-2359104a8300/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/ce57ae24-1eab-44f0-aadb-2359104a8300/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/ce57ae24-1eab-44f0-aadb-2359104a8300/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/ce57ae24-1eab-44f0-aadb-2359104a8300/audio-files/audio.wav",
+      "sampleScript": "ちゃんとしろって言われんのマジしんどいんだよね。息つまるっつーの。 別に、家のことは嫌いじゃないけどさ？ 親に言われた通りに生きるだけとか…あーしにはムリ。 どうせなら自分らしく生きたいもん。",
+      "recommendedVoiceSpeed": 1,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 58,
+          "style": "素直"
+        },
+        {
+          "id": 31,
+          "style": "可愛い"
+        },
+        {
+          "id": 60,
+          "style": "自信満々"
+        }
+      ]
+    },
+    {
+      "id": "5e947136-bceb-426a-ba32-65e556bb4b6c",
+      "name": "春乃 セリーヌ 白鳥",
+      "nameReading": "はるの せりーぬ しらとり",
+      "age": 23,
+      "gender": "FEMALE",
+      "birthMonth": 4,
+      "birthDay": 22,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/5e947136-bceb-426a-ba32-65e556bb4b6c/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/5e947136-bceb-426a-ba32-65e556bb4b6c/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/5e947136-bceb-426a-ba32-65e556bb4b6c/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/5e947136-bceb-426a-ba32-65e556bb4b6c/audio-files/audio.wav",
+      "sampleScript": "メガネって、ただ視力をサポートするだけじゃなくて、ファッションアイテムにもなるんです。 今日はどんな気分で選びますか？ もし違うなって思ったら、気にせず言ってくださいね…！",
+      "recommendedVoiceSpeed": 0.9,
+      "recommendedEmotionalLevel": 0.1,
+      "recommendedSoundDuration": 0.1,
+      "voiceStyles": [
+        {
+          "id": 29,
+          "style": "内向"
+        },
+        {
+          "id": 25,
+          "style": "優しい"
+        },
+        {
+          "id": 54,
+          "style": "生真面目"
+        }
+      ]
+    },
+    {
+      "id": "2773f3eb-2d5e-452b-b626-59d0869c53ec",
+      "name": "サンタクロース",
+      "gender": "MALE",
+      "birthMonth": 12,
+      "birthDay": 25,
+      "smallImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/2773f3eb-2d5e-452b-b626-59d0869c53ec/images/s.webp",
+      "mediumImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/2773f3eb-2d5e-452b-b626-59d0869c53ec/images/m.webp",
+      "largeImageUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/2773f3eb-2d5e-452b-b626-59d0869c53ec/images/l.webp",
+      "sampleVoiceUrl": "https://storage.googleapis.com/ai-voice-prod-public-storage/voice-actors/2773f3eb-2d5e-452b-b626-59d0869c53ec/audio-files/audio.wav",
+      "sampleScript": "フォッフォッ、君がどんなに頑張っているかいつもちゃんと見ているよ 。 努力家の君には…ほら、プレゼントだ！ ハッピーメリークリスマス。フォッフォッフォッ～！",
+      "recommendedVoiceSpeed": 0.7,
+      "recommendedEmotionalLevel": 0.4,
+      "recommendedSoundDuration": 0.4,
+      "voiceStyles": [
+        {
+          "id": 25,
+          "style": "優しい"
+        },
+        {
+          "id": 44,
+          "style": "温かい"
+        },
+        {
+          "id": 2,
+          "style": "おじさん"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+[project]
+name = "whisper-stream"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.2.1",
+    "python-dotenv>=1.0.1",
+    "requests>=2.32.3",
+    "scipy>=1.14.1",
+    "silero-vad>=5.1.2",
+    "sounddevice>=0.5.1",
+    "soundfile>=0.12.1",
+    "torch>=2.5.1",
+]
